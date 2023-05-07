@@ -1,0 +1,1122 @@
+pid,code,A/C,M/F,duration,engagement_score,norm_engagement_score,engagement_level
+0,"['Approach', 'None']",Child,Female,5680,3.52112676056338,6.341145877943407,mid
+1,"['Approach', 'None']",Child,Female,11840,3.533783783783784,6.372980862156244,mid
+2,"['Approach', 'None']",Child,Male,24840,3.6280193236714977,6.61000238549338,mid
+3,"['Approach', 'None']",Child,Male,12280,3.517915309446254,6.333068426094445,mid
+4,['Pass'],Child,Male,21040,1.0,0.0,low
+5,"['Approach', 'None']",Child,Male,11920,3.651006711409396,6.667820334705219,mid
+6,['Pass'],Child,Male,6560,1.0,0.0,low
+7,['Pass'],Adult,Male,19440,1.0,0.0,low
+8,"['Approach', 'None']",Adult,Female,25120,3.656050955414013,6.680507632931376,mid
+9,"['Approach', 'None']",Adult,Female,12640,3.5253164556962027,6.351683812186508,mid
+10,['Pass'],Adult,Female,6640,1.0,0.0,low
+11,['Pass'],Adult,Female,11760,1.0,0.0,low
+12,['Pass'],Adult,Female,12200,1.0,0.0,low
+13,"['Approach', 'None']",Adult,Female,20400,3.662745098039216,6.697344761305154,mid
+14,['Pass'],Adult,Male,19400,1.0,0.0,low
+15,['Pass'],Adult,Female,11520,1.0,0.0,low
+16,"['Approach', 'None']",Adult,Female,26160,3.801223241590214,7.045645419129849,mid
+17,['Pass'],Child,Male,12240,1.0,0.0,low
+18,"['Approach', 'None']",Child,Male,12480,3.5961538461538463,6.529854237224707,mid
+19,"['Approach', 'None']",Child,Male,28400,3.6732394366197183,6.723740154377983,mid
+20,"['Approach', 'None']",Child,Male,17680,3.800904977375566,7.04484491998622,mid
+21,"['Approach', 'None']",Child,Male,6960,3.137931034482759,5.377330794588112,mid
+22,"['Approach', 'None']",Child,Male,26240,3.667682926829269,6.709764403652308,mid
+23,"['Approach', 'None']",Adult,Female,17680,3.3122171945701355,5.815695887096863,mid
+24,"['Approach', 'Touch', 'None', 'Gesture']",Adult,Female,15200,4.336842105263158,8.392835652741681,high
+25,"['Approach', 'None', 'None']",Adult,Female,57600,3.858333333333333,7.189288899699991,mid
+26,"['Approach', 'None']",Adult,Female,17760,3.855855855855856,7.183057540634773,mid
+27,"['Approach', 'Touch', 'None']",Adult,Female,10320,4.162790697674419,7.9550610104484285,mid
+28,"['Approach', 'None', 'Touch', 'None', 'None', 'Touch', 'None', 'Touch']",Adult,Female,128520,3.824774354186119,7.104881250859759,mid
+29,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,34240,4.0607476635514015,7.698402053301262,mid
+30,"['Approach', 'None', 'Touch', 'None']",Child,Female,48960,3.3366013071895426,5.877026883079512,mid
+31,"['Approach', 'None']",Child,Male,36720,3.261437908496732,5.687975668658771,mid
+32,['Pass'],Child,Female,12320,1.0,0.0,low
+33,"['Approach', 'None', 'Touch', 'None', 'Gesture', 'None']",Child,Female,63920,4.212765957446809,8.080758939430797,high
+34,['Follow'],Child,Female,15280,2.0,2.515203113597665,low
+35,['Avoid'],Child,Female,15440,2.0,2.515203113597665,low
+36,['Follow'],Child,Female,8240,2.0,2.515203113597665,low
+37,"['Avoid', 'None']",Child,Female,20400,3.2980392156862743,5.780035390463652,mid
+38,"['Follow', 'None']",Child,Female,12640,2.632911392405063,4.107103818406313,mid
+39,"['Approach', 'Gesture', 'None', 'Gesture', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None']",Child,Female,88160,4.351179673321234,8.428897548562771,high
+40,['Follow'],Child,Female,34480,2.0,2.515203113597665,low
+41,"['Avoid', 'None']",Child,Female,18680,3.147751605995717,5.402031526634813,mid
+42,['Pass'],Adult,Male,12240,1.0,0.0,low
+43,['Pass'],Adult,Male,14400,1.0,0.0,low
+44,"['Approach', 'Gesture', 'None']",Adult,Male,91080,3.96354852876592,7.453926486849821,mid
+45,['Follow'],Adult,Male,37920,2.0,2.515203113597665,low
+46,"['Avoid', 'None', 'Touch']",Adult,Male,22000,3.6763636363636367,6.7315981513013865,mid
+47,"['Approach', 'None']",Adult,Female,55200,3.815942028985508,7.082666159014874,mid
+48,['Follow'],Adult,Female,13120,2.0,2.515203113597665,low
+49,['Avoid'],Adult,Female,12000,2.0,2.515203113597665,low
+50,['Follow'],Adult,Female,10320,2.0,2.515203113597665,low
+51,"['Avoid', 'None']",Adult,Female,36160,3.2831858407079646,5.742676135470775,mid
+52,['Pass'],Child,Male,14000,1.0,0.0,low
+53,['Pass'],Child,Male,9280,1.0,0.0,low
+54,['Pass'],Child,Male,17280,1.0,0.0,low
+55,['Pass'],Child,Male,10720,1.0,0.0,low
+56,['Pass'],Child,Male,15040,1.0,0.0,low
+57,['Pass'],Child,Male,16400,1.0,0.0,low
+58,['Pass'],Adult,Female,17200,1.0,0.0,low
+59,"['Approach', 'None']",Child,Male,12800,3.59375,6.523808075893943,mid
+60,"['Approach', 'None']",Child,Male,14160,3.457627118644068,6.181431380875617,mid
+61,"['Approach', 'Gesture']",Adult,Female,8720,3.770642201834862,6.968727892720135,mid
+62,"['Approach', 'Gesture']",Child,Male,6640,3.9397590361445785,7.394091080937714,mid
+63,"['Approach', 'None']",Adult,Female,28240,3.379603399433428,5.985185879382544,mid
+64,"['Approach', 'Touch', 'Gesture']",Child,Male,24160,3.52317880794702,6.346307193911988,mid
+65,['Pass'],Child,Male,11600,1.0,0.0,low
+66,['Pass'],Child,Male,7440,1.0,0.0,low
+67,['Pass'],Child,Male,13360,1.0,0.0,low
+68,"['Approach', 'Gesture']",Child,Male,6280,3.789808917197452,7.016936074877561,mid
+69,['Pass'],Adult,Male,8720,1.0,0.0,low
+70,['Pass'],Adult,Female,11680,1.0,0.0,low
+71,['Pass'],Child,Male,7120,1.0,0.0,low
+72,['Pass'],Adult,Male,10320,1.0,0.0,low
+73,['Pass'],Adult,Male,10400,1.0,0.0,low
+74,['Pass'],Child,Male,23200,1.0,0.0,low
+75,['Pass'],Adult,Male,20480,1.0,0.0,low
+76,['Pass'],Adult,Male,16480,1.0,0.0,low
+77,"['Approach', 'None']",Adult,Male,25280,3.632911392405064,6.622306932003978,mid
+78,"['Approach', 'None', 'Gesture', 'None']",Adult,Female,16240,3.768472906403941,6.963271674097967,mid
+79,"['Approach', 'None', 'Gesture', 'Gesture']",Child,Female,21760,3.882352941176471,7.249703092134445,mid
+80,"['Approach', 'Gesture', 'None', 'Gesture']",Child,Male,16800,4.109523809523809,7.821083967520356,mid
+81,"['Approach', 'Gesture', 'None']",Child,Male,29000,4.086896551724138,7.764171818250446,mid
+82,"['Approach', 'Gesture']",Child,Male,10720,3.925373134328359,7.357907615897647,mid
+83,['Pass'],Child,Female,11520,1.0,0.0,low
+84,"['Approach', 'None']",Child,Female,5120,3.375,5.9736073947944535,mid
+85,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Female,57120,3.910364145658264,7.320156960862672,mid
+86,['Follow'],Child,Female,12240,2.0,2.515203113597665,low
+87,"['Approach', 'None', 'Gesture']",Child,Female,18320,3.7248908296943233,6.853653899060886,mid
+88,"['Approach', 'None']",Child,Female,55120,3.867924528301887,7.21341270314802,mid
+89,['Follow'],Child,Female,11680,2.0,2.515203113597665,low
+90,"['Approach', 'None']",Adult,Female,8240,3.5145631067961167,6.3246369555514095,mid
+91,"['Approach', 'None', 'Touch']",Adult,Female,23080,4.022530329289428,7.602277695172145,mid
+92,"['Approach', 'None']",Adult,Female,25440,3.783018867924529,6.999857721804822,mid
+93,['Follow'],Adult,Female,11280,2.0,2.515203113597665,low
+94,"['Approach', 'None']",Adult,Male,28400,3.602816901408451,6.546613174547161,mid
+95,['Follow'],Adult,Male,11440,2.0,2.515203113597665,low
+96,"['Approach', 'None']",Adult,Female,31440,3.7709923664122136,6.969608627755361,mid
+97,['Follow'],Adult,Female,6000,2.0,2.515203113597665,low
+98,"['Approach', 'None']",Child,Male,74320,3.880516684607104,7.245084533893811,mid
+99,['Follow'],Child,Male,10000,2.0,2.515203113597665,low
+100,"['Approach', 'None']",Adult,Female,14080,3.392045454545454,6.016480175139868,mid
+101,['Pass'],Adult,Male,12160,1.0,0.0,low
+102,['Pass'],Adult,Male,9840,1.0,0.0,low
+103,['Pass'],Child,Male,7520,1.0,0.0,low
+104,['Pass'],Child,Male,5280,1.0,0.0,low
+105,['Pass'],Child,Male,13920,1.0,0.0,low
+106,['Pass'],Adult,Male,13280,1.0,0.0,low
+107,"['Approach', 'None']",Adult,Male,12720,3.125786163522013,5.3467839773334,mid
+108,['Approach'],Adult,Male,10320,3.0,5.03040622719533,mid
+109,['Follow'],Adult,Male,14160,2.0,2.515203113597665,low
+110,"['Approach', 'None', 'Gesture', 'None']",Adult,Male,26720,3.874251497005988,7.2293263145322095,mid
+111,['Approach'],Child,Female,4080,3.0,5.03040622719533,mid
+112,['Avoid'],Child,Female,6240,2.0,2.515203113597665,low
+113,['Follow'],Child,Female,10480,2.0,2.515203113597665,low
+114,['Avoid'],Child,Female,4560,2.0,2.515203113597665,low
+115,"['Approach', 'None', 'Touch', 'None', 'None']",Child,Female,31680,3.8207070707070714,7.094651206789372,mid
+116,['Avoid'],Adult,Male,3440,2.0,2.515203113597665,low
+117,"['Follow', 'None']",Adult,Male,14160,3.1977401129943503,5.527762775081873,mid
+118,"['Approach', 'None', 'Touch', 'None']",Adult,Male,28720,4.011142061281337,7.5736338880197085,mid
+119,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']",Adult,Male,158280,4.086934546373515,7.764267382510859,mid
+120,"['Approach', 'Touch', 'None', 'Touch', 'None']",Adult,Male,31760,4.415617128463476,8.59097083636885,high
+121,"['Approach', 'None']",Adult,Male,27720,3.935064935064935,7.382284463286651,mid
+122,['Approach'],Adult,Male,12240,3.0,5.03040622719533,mid
+123,"['Avoid', 'None', 'Touch']",Adult,Male,12200,3.675409836065574,6.72919914982195,mid
+124,['Avoid'],Child,Female,3040,2.0,2.515203113597665,low
+125,['Follow'],Child,Female,8640,2.0,2.515203113597665,low
+126,"['Approach', 'None', 'Touch', 'None']",Child,Female,30720,4.114583333333333,7.833809697559393,mid
+127,"['Approach', 'None']",Child,Female,27520,3.75,6.916808562393578,mid
+128,"['Approach', 'None']",Child,Female,6560,3.463414634146342,6.195988157886932,mid
+129,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Gesture', 'None', 'Gesture', 'None']",Child,Female,90360,4.236830455953962,8.141286041003154,high
+130,"['Approach', 'None']",Child,Female,8720,3.651376146788991,6.668749539722248,mid
+131,"['Approach', 'Touch']",Child,Female,7040,3.8181818181818175,7.088299683775237,mid
+132,"['Approach', 'Touch']",Child,Female,9280,3.637931034482759,6.634932351386944,mid
+133,"['Approach', 'None', 'Touch']",Child,Female,10080,4.079365079365079,7.745228635522967,mid
+134,"['Approach', 'Touch']",Child,Female,7880,3.5583756345177666,6.434834361691487,mid
+135,"['Approach', 'None', 'Approach', 'None']",Child,Female,26640,3.543543543543544,6.3975286402919584,mid
+136,"['Approach', 'None', 'Touch']",Child,Female,11040,3.855072463768116,7.181087150416522,mid
+137,"['Approach', 'None', 'Touch', 'None']",Child,Female,19920,3.987951807228916,7.515305688821937,mid
+138,['Approach'],Child,Female,2720,3.0,5.03040622719533,mid
+139,"['Approach', 'None']",Child,Female,6720,3.523809523809524,6.347893572413153,mid
+140,"['Approach', 'Touch', 'None']",Child,Female,16400,4.0634146341463415,7.705110026045529,mid
+141,"['Approach', 'None']",Adult,Female,20400,3.0784313725490198,5.227677059634361,mid
+142,"['Approach', 'None']",Adult,Male,14080,3.357954545454546,5.93073461444904,mid
+143,"['Approach', 'Touch', 'None']",Child,Male,42540,3.913963328631876,7.329209637084309,mid
+144,"['Approach', 'None', 'Touch', 'None']",Child,Male,44080,4.001814882032668,7.550174137732373,mid
+145,['Pass'],Adult,Female,15520,1.0,0.0,low
+146,['Pass'],Adult,Female,21120,1.0,0.0,low
+147,"['Approach', 'None']",Adult,Female,139440,3.942627653471027,7.401306236168916,mid
+148,"['Approach', 'Gesture', 'None']",Adult,Female,32560,4.0,7.545609340792994,mid
+149,"['Approach', 'None']",Adult,Female,33360,3.911270983213429,7.322437841504952,mid
+150,"['Approach', 'None']",Adult,Female,19360,3.4049586776859506,6.048959554189426,mid
+151,"['Approach', 'Touch']",Child,Male,14640,4.300546448087432,8.301544702803222,high
+152,"['Approach', 'None']",Child,Male,82960,3.96046287367406,7.446165437555285,mid
+153,"['Approach', 'None', 'Gesture', 'Touch', 'None']",Child,Male,69680,3.985074626865672,7.508068995813924,mid
+154,"['Approach', 'None']",Child,Male,10080,3.682539682539683,6.7471321618731,mid
+155,"['Approach', 'Touch', 'Gesture', 'None']",Child,Male,38560,4.4128630705394185,8.584043821303233,high
+156,"['Follow', 'Gesture']",Child,Male,22000,2.621818181818182,4.079202140598395,mid
+157,['Pass'],Child,Male,10560,1.0,0.0,low
+158,"['Approach', 'None']",Adult,Female,14800,3.5027027027027025,6.294805630247128,mid
+159,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,48000,4.078333333333333,7.742633584691477,mid
+160,"['Approach', 'Touch', 'None']",Child,Male,52880,4.130105900151285,7.872852105950933,mid
+161,"['Approach', 'None']",Child,Male,10800,3.311111111111111,5.812913862536825,mid
+162,"['Approach', 'Touch']",Adult,Female,16640,4.105769230769231,7.8116404393465935,mid
+163,"['Approach', 'None']",Adult,Female,21520,3.509293680297397,6.311383277614957,mid
+164,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,102160,4.421299921691464,8.605264215589816,high
+165,"['Approach', 'Touch', 'None']",Adult,Female,18800,4.046808510638297,7.663342252493309,mid
+166,"['Approach', 'Touch']",Adult,Female,14640,4.103825136612022,7.806750647669254,mid
+167,['Avoid'],Adult,Female,7360,2.0,2.515203113597665,low
+168,"['Approach', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']",Adult,Female,79920,4.392392392392392,8.532555907890377,high
+169,"['Approach', 'Gesture', 'None']",Adult,Male,15120,4.0,7.545609340792994,mid
+170,"['Approach', 'None', 'Gesture', 'None', 'None']",Adult,Male,66240,3.786231884057971,7.007939109987697,mid
+171,"['Approach', 'None', 'Touch', 'None']",Adult,Male,22560,4.170212765957447,7.973729019703235,mid
+172,"['Approach', 'None']",Adult,Male,9760,3.7131147540983607,6.824034677055959,mid
+173,"['Approach', 'None']",Adult,Male,18080,3.371681415929204,5.965260481806851,mid
+174,['Avoid'],Adult,Male,8000,2.0,2.515203113597665,low
+175,"['Approach', 'None']",Adult,Male,47600,3.8,7.042568718073462,mid
+176,"['Approach', 'None']",Adult,Male,20640,3.162790697674419,5.439857896850764,mid
+177,"['Approach', 'None', 'Gesture', 'None', 'Gesture']",Child,Male,19960,4.354709418837675,8.437775575475934,high
+178,"['Approach', 'None', 'Gesture', 'None']",Child,Male,39280,3.9287169042769854,7.366317876483587,mid
+179,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Gesture', 'None', 'Gesture', 'None']",Child,Male,104280,4.172612197928654,7.979764078468081,mid
+180,"['Approach', 'None']",Child,Male,18880,3.4279661016949152,6.106827898692635,mid
+181,['Avoid'],Child,Male,7200,2.0,2.515203113597665,low
+182,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None', 'Gesture']",Child,Male,117760,4.137228260869565,7.890766289805717,mid
+183,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None']",Child,Male,46680,4.036846615252784,7.638286062202333,mid
+184,"['Approach', 'Gesture', 'None']",Child,Male,25760,3.993788819875777,7.529986961205432,mid
+185,"['Approach', 'Gesture', 'None', 'Gesture', 'None']",Child,Male,40400,4.01980198019802,7.595415343042453,mid
+186,['Follow'],Adult,Female,14720,2.0,2.515203113597665,low
+187,['Follow'],Adult,Male,7360,2.0,2.515203113597665,low
+188,['Avoid'],Adult,Male,2800,2.0,2.515203113597665,low
+189,['Pass'],Adult,Female,13040,1.0,0.0,low
+190,"['Approach', 'Touch', 'Gesture', 'Touch', 'Gesture']",Child,Female,55560,4.809935205183585,9.582760890683112,high
+191,"['Approach', 'Touch']",Child,Female,41360,4.7794970986460354,9.506202870347847,high
+192,"['Approach', 'Touch']",Child,Female,55920,4.605150214592275,9.067685044729778,high
+193,"['Approach', 'Touch']",Child,Female,33120,4.579710144927536,9.003698102298886,high
+194,"['Approach', 'None']",Child,Female,15840,3.611111111111112,6.567474796616127,mid
+195,"['Approach', 'Gesture', 'Touch', 'Touch', 'Touch', 'None', 'Touch', 'Touch', 'Touch']",Child,Female,104680,4.856706152082538,9.700399321949266,high
+196,['Approach'],Child,Male,3360,3.0,5.03040622719533,mid
+197,['Approach'],Child,Male,4400,3.0,5.03040622719533,mid
+198,['Approach'],Child,Male,2720,3.0,5.03040622719533,mid
+199,['Approach'],Child,Male,3080,3.0,5.03040622719533,mid
+200,['Approach'],Child,Male,1920,3.0,5.03040622719533,mid
+201,['Approach'],Child,Male,4200,3.0,5.03040622719533,mid
+202,['Approach'],Child,Male,2400,3.0,5.03040622719533,mid
+203,['Approach'],Child,Male,4720,3.0,5.03040622719533,mid
+204,"['Approach', 'None']",Child,Female,68480,3.657710280373832,6.684681172236784,mid
+205,"['Approach', 'Touch']",Child,Female,32880,3.798053527980535,7.037672945589573,mid
+206,"['Approach', 'None', 'Gesture']",Child,Female,87080,4.1070280202113,7.814806550470648,mid
+207,"['Approach', 'None']",Child,Male,32760,3.694749694749695,6.777842822600789,mid
+208,"['Approach', 'None']",Child,Male,12000,3.2466666666666666,5.650822995216086,mid
+209,"['Approach', 'None']",Child,Female,24480,3.349673202614379,5.909905355152683,mid
+210,"['Approach', 'None']",Child,Female,46000,3.805217391304348,7.055691516927015,mid
+211,"['Approach', 'Gesture']",Child,Female,63520,4.428211586901764,8.622648457446907,high
+212,"['Approach', 'Touch']",Child,Male,55520,4.76657060518732,9.473690113752586,high
+213,['Approach'],Child,Male,6320,3.0,5.03040622719533,mid
+214,['Avoid'],Child,Male,9600,2.0,2.515203113597665,low
+215,"['Follow', 'Touch']",Child,Male,33440,3.7583732057416266,6.937868875545711,mid
+216,"['Approach', 'None']",Child,Female,15920,3.708542713567839,6.812535066478096,mid
+217,"['Approach', 'Touch']",Child,Female,56640,4.8559322033898304,9.698452683787606,high
+218,"['Approach', 'Touch']",Child,Female,89600,4.935714285714286,9.89912082565938,high
+219,"['Approach', 'None']",Child,Female,21440,3.388059701492537,6.006455196651139,mid
+220,"['Approach', 'Touch']",Child,Female,8800,3.6,6.539528095353927,mid
+221,['Follow'],Child,Female,34720,2.0,2.515203113597665,low
+222,"['Approach', 'Touch']",Child,Female,67920,4.882214369846879,9.764557670692463,high
+223,"['Approach', 'None']",Child,Female,44880,3.868092691622103,7.21383566805462,mid
+224,"['Approach', 'None']",Child,Female,11520,3.4444444444444446,6.148274277683181,mid
+225,"['Approach', 'Touch']",Child,Female,40000,4.6,9.054731208951592,high
+226,"['Approach', 'None', 'Touch']",Child,Female,114720,4.726638772663877,9.373253444257964,high
+227,['Approach'],Child,Female,6240,3.0,5.03040622719533,mid
+228,['Follow'],Child,Female,38400,2.0,2.515203113597665,low
+229,"['Approach', 'Touch']",Child,Female,97360,4.944124897288415,9.92027522207789,high
+230,"['Approach', 'None']",Child,Female,19360,3.7561983471074383,6.932398664337366,mid
+231,"['Approach', 'None']",Child,Female,26720,3.838323353293413,7.138959735600557,mid
+232,"['Approach', 'None']",Child,Female,21440,3.6007462686567164,6.541405112602882,mid
+233,"['Approach', 'Touch']",Child,Male,6240,3.9230769230769234,7.352132178208559,mid
+234,"['Approach', 'Touch']",Child,Male,9200,3.921739130434783,7.348767357989699,mid
+235,"['Approach', 'Touch']",Child,Male,37920,4.79113924050633,9.535485221803809,high
+236,"['Approach', 'Touch']",Child,Male,58880,4.921195652173914,9.862603513373454,high
+237,['Approach'],Child,Male,4360,3.0,5.03040622719533,mid
+238,['Avoid'],Child,Male,5600,2.0,2.515203113597665,low
+239,['Follow'],Child,Male,11840,2.0,2.515203113597665,low
+240,['Avoid'],Child,Male,8560,2.0,2.515203113597665,low
+241,['Follow'],Child,Male,5280,2.0,2.515203113597665,low
+242,['Follow'],Child,Male,6080,2.0,2.515203113597665,low
+243,"['Approach', 'None']",Child,Male,21840,3.4725274725274726,6.218908797356864,mid
+244,"['Approach', 'None']",Child,Male,9040,3.380530973451327,5.987518916440457,mid
+245,"['Approach', 'None', 'Touch']",Child,Male,38800,4.402061855670103,8.556876572033293,high
+246,"['Approach', 'Touch']",Child,Male,49360,4.828200972447326,9.628703005377124,high
+247,"['Approach', 'Touch']",Child,Male,14640,4.715846994535519,9.346109930308264,high
+248,['Approach'],Child,Male,3920,3.0,5.03040622719533,mid
+249,['Avoid'],Child,Male,3520,2.0,2.515203113597665,low
+250,['Follow'],Child,Male,24480,2.0,2.515203113597665,low
+251,"['Approach', 'Touch']",Child,Male,93600,4.750427350427351,9.433086549116714,high
+252,"['Approach', 'None']",Child,Male,26400,3.9,7.294089029433229,mid
+253,"['Approach', 'None']",Child,Male,38080,3.8739495798319328,7.228566931515977,mid
+254,"['Approach', 'Touch', 'Touch', 'Touch']",Child,Male,165440,4.975822050290136,10.0,high
+255,['Avoid'],Child,Female,8320,2.0,2.515203113597665,low
+256,['Follow'],Child,Female,36160,2.0,2.515203113597665,low
+257,"['Approach', 'None']",Child,Female,91520,3.916083916083916,7.334543345246336,mid
+258,"['Approach', 'Touch', 'None']",Child,Female,87440,4.55352241537054,8.937830643379076,high
+259,"['Approach', 'None']",Child,Female,13440,3.446428571428572,6.15326476005143,mid
+260,"['Approach', 'Touch']",Child,Female,8960,4.071428571428571,7.725266706049969,mid
+261,"['Approach', 'Gesture']",Child,Male,6240,4.333333333333333,8.384010378658882,high
+262,['Avoid'],Child,Male,14000,2.0,2.515203113597665,low
+263,"['Approach', 'Touch']",Child,Male,41440,4.718146718146718,9.351894202295563,high
+264,"['Approach', 'None']",Child,Male,26800,3.623880597014925,6.599592647320439,mid
+265,"['Approach', 'None']",Child,Male,90080,3.9289520426287754,7.366909297198133,mid
+266,"['Approach', 'None']",Child,Male,10960,3.5912408759124093,6.517497119176432,mid
+267,['Approach'],Child,Male,2800,3.0,5.03040622719533,mid
+268,"['Approach', 'None']",Child,Male,15440,3.8549222797927465,7.180709407214058,mid
+269,"['Approach', 'None', 'None']",Child,Male,31760,3.851385390428212,7.171813412071931,mid
+270,"['Approach', 'None']",Child,Female,15920,3.5678391959799,6.458637140946767,mid
+271,"['Approach', 'None']",Child,Female,36960,3.85930735930736,7.191738772862588,mid
+272,"['Approach', 'None']",Child,Female,20960,3.5114503816793894,6.316807819646043,mid
+273,"['Approach', 'None', 'None']",Child,Female,65680,3.903775883069428,7.303586142286033,mid
+274,"['Approach', 'None']",Child,Male,50320,3.747217806041336,6.909810779486111,mid
+275,"['Approach', 'None']",Child,Male,76960,3.776507276507276,6.983479746797673,mid
+276,"['Approach', 'None']",Child,Male,12000,3.253333333333334,5.6675910159734055,mid
+277,"['Approach', 'None']",Child,Female,10240,3.28125,5.737807102894673,mid
+278,['Approach'],Child,Male,2160,3.0,5.03040622719533,mid
+279,['Avoid'],Child,Male,17200,2.0,2.515203113597665,low
+280,"['Approach', 'None']",Child,Male,159280,3.9412355600200906,7.397804838386702,mid
+281,"['Approach', 'Touch']",Child,Male,36320,4.656387665198238,9.196557640026704,high
+282,"['Approach', 'None']",Child,Male,13680,3.7953216374269,7.030801685963062,mid
+283,"['Approach', 'None']",Child,Male,17360,3.751152073732719,6.919706261833206,mid
+284,"['Approach', 'None']",Child,Female,37120,3.0797413793103448,5.230971992719281,mid
+285,"['Approach', 'None']",Child,Female,25360,3.810725552050473,7.069545659985865,mid
+286,"['Approach', 'None']",Child,Female,7040,3.488636363636364,6.259425930430552,mid
+287,"['Approach', 'None']",Child,Female,19680,3.5528455284552845,6.420925021704607,mid
+288,['Approach'],Child,Female,5680,3.0,5.03040622719533,mid
+289,"['Follow', 'None']",Child,Female,31280,3.130434782608696,5.358476198534154,mid
+290,"['Approach', 'None', 'Touch']",Child,Female,107040,4.242899850523169,8.156551801121276,high
+291,"['Approach', 'None']",Child,Female,27360,3.7339181286549703,6.876359389514083,mid
+292,"['Approach', 'Touch']",Child,Female,36880,4.765726681127982,9.471567473330902,high
+293,"['Approach', 'Touch', 'Gesture', 'Touch']",Child,Male,84640,4.831758034026465,9.637649737736233,high
+294,['Avoid'],Child,Male,5440,2.0,2.515203113597665,low
+295,"['Approach', 'None']",Adult,Female,44080,3.882032667876589,7.24889753973338,mid
+296,"['Approach', 'None']",Adult,Female,21120,3.75,6.916808562393578,mid
+297,"['Approach', 'Gesture']",Adult,Female,19520,4.016393442622951,7.586842178720824,mid
+298,['Pass'],Child,Male,20560,1.0,0.0,low
+299,['Pass'],Child,Male,14880,1.0,0.0,low
+300,['Pass'],Adult,Male,13280,1.0,0.0,low
+301,['Pass'],Adult,Female,8160,1.0,0.0,low
+302,"['Approach', 'Gesture', 'Touch']",Child,Male,27600,4.611594202898551,9.08389298418171,high
+303,"['Approach', 'Gesture']",Child,Male,8400,3.761904761904762,6.946751456603074,mid
+304,['Pass'],Child,Male,6880,1.0,0.0,low
+305,"['Approach', 'None']",Child,Female,16160,3.03960396039604,5.130018231694247,mid
+306,['Pass'],Child,Female,16320,1.0,0.0,low
+307,"['Approach', 'Gesture']",Child,Female,37760,4.406779661016949,8.568742810731028,high
+308,"['Approach', 'Touch']",Child,Female,51840,4.700617283950618,9.307804114825927,high
+309,"['Approach', 'Touch']",Child,Female,59680,4.871313672922252,9.73714020384726,high
+310,['Approach'],Child,Female,2880,3.0,5.03040622719533,mid
+311,['Avoid'],Child,Female,5200,2.0,2.515203113597665,low
+312,"['Approach', 'None']",Child,Male,9040,3.2477876106194685,5.653642396936343,mid
+313,"['Approach', 'None']",Child,Male,38560,3.759336099585062,6.940290749138784,mid
+314,"['Approach', 'None']",Child,Male,15040,3.367021276595745,5.953539284845536,mid
+315,['Approach'],Child,Male,2160,3.0,5.03040622719533,mid
+316,"['Approach', 'Touch']",Child,Male,26000,4.390769230769231,8.528473326721928,high
+317,"['Approach', 'Gesture', 'Touch', 'Gesture']",Child,Male,51920,4.818181818181818,9.6035027973729,high
+318,['Avoid'],Child,Male,6640,2.0,2.515203113597665,low
+319,['Pass'],Adult,Female,12240,1.0,0.0,low
+320,"['Approach', 'None']",Adult,Female,41440,3.783783783783784,7.001781640555661,mid
+321,"['Approach', 'Touch']",Adult,Female,77120,4.863070539419088,9.7164070487943,high
+322,"['Approach', 'None', 'None']",Adult,Female,21840,3.688644688644689,6.762487492236945,mid
+323,"['Approach', 'None']",Adult,Female,11200,3.307142857142857,5.802932897800326,mid
+324,"['Approach', 'None']",Adult,Female,17280,3.5462962962962963,6.404452372586647,mid
+325,"['Approach', 'None']",Adult,Female,30240,3.7936507936507935,7.026599174495063,mid
+326,"['Approach', 'None']",Adult,Female,10720,3.3582089552238807,5.931374506693,mid
+327,['Avoid'],Adult,Female,7040,2.0,2.515203113597665,low
+328,"['Approach', 'Touch']",Child,Female,14480,3.2872928176795577,5.753006016737199,mid
+329,"['Approach', 'Touch', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Female,178240,4.83213644524237,9.638601518804697,high
+330,"['Approach', 'None', 'Touch', 'Gesture', 'None', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Female,97840,4.808667211774326,9.57957162971212,high
+331,['Pass'],Child,Male,6560,1.0,0.0,low
+332,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,31920,3.957393483709272,7.438445298359007,mid
+333,"['Approach', 'None', 'Touch']",Child,Male,33040,4.242130750605327,8.154617358613251,high
+334,['Approach'],Child,Male,2880,3.0,5.03040622719533,mid
+335,"['Approach', 'Touch', 'None']",Child,Male,59600,4.659060402684563,9.203280117674138,high
+336,['Pass'],Adult,Female,7680,1.0,0.0,low
+337,"['Approach', 'Gesture']",Child,Male,19520,3.4262295081967213,6.102460013318924,mid
+338,"['Approach', 'None']",Child,Male,5520,3.492753623188406,6.269781674475339,mid
+339,['Pass'],Child,Male,7280,1.0,0.0,low
+340,"['Approach', 'Touch']",Child,Male,11840,3.648648648648649,6.661889327907328,mid
+341,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,29760,4.333333333333333,8.384010378658882,high
+342,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,44640,4.021505376344086,7.599699730332729,mid
+343,"['Approach', 'None']",Child,Male,17600,3.618181818181818,6.585259061055703,mid
+344,"['Approach', 'None']",Child,Male,7040,3.454545454545454,6.173680369739722,mid
+345,['Pass'],Adult,Female,15360,1.0,0.0,low
+346,"['Pass', 'Gesture']",Adult,Female,26560,2.192771084337349,3.000061545134563,low
+347,['Avoid'],Child,Male,8720,2.0,2.515203113597665,low
+348,"['Approach', 'Touch', 'None', 'Touch']",Child,Male,22800,4.463157894736842,8.710545519722437,high
+349,['Avoid'],Child,Male,4560,2.0,2.515203113597665,low
+350,['Follow'],Child,Male,7640,2.0,2.515203113597665,low
+351,['Approach'],Child,Male,7360,3.0,5.03040622719533,mid
+352,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,60880,4.232588699080158,8.130617160907038,high
+353,"['Approach', 'Touch', 'Gesture', 'None', 'Touch', 'None']",Child,Male,37320,4.246516613076099,8.16564869355555,high
+354,"['Approach', 'None']",Child,Male,11440,3.6643356643356646,6.701345358606367,mid
+355,['Avoid'],Child,Male,4400,2.0,2.515203113597665,low
+356,['Follow'],Child,Male,7200,2.0,2.515203113597665,low
+357,"['Approach', 'None']",Child,Male,54720,3.8026315789473686,7.0491876736355605,mid
+358,"['Approach', 'None']",Child,Male,18400,3.6521739130434794,6.670756083889459,mid
+359,"['Approach', 'None']",Adult,Female,53360,3.923538230884558,7.353292461042649,mid
+360,"['Approach', 'None']",Adult,Female,20800,3.5307692307692307,6.365398649027936,mid
+361,"['Approach', 'Touch', 'None', 'Touch', 'None']",Adult,Male,34520,4.47045191193511,8.728891454490157,high
+362,['Pass'],Child,Male,13200,1.0,0.0,low
+363,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,34320,4.340326340326341,8.401599211621104,high
+364,"['Approach', 'Touch', 'None']",Adult,Male,66800,3.904191616766467,7.304631796975254,mid
+365,"['Approach', 'Touch', 'None', 'Touch', 'None']",Adult,Male,43520,4.069852941176471,7.721303675934008,mid
+366,"['Approach', 'None']",Adult,Male,30640,3.825065274151436,7.105612973662332,mid
+367,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,69600,4.410344827586207,8.577709928786518,high
+368,"['Approach', 'None']",Adult,Female,18560,3.4353448275862077,6.1253868930287965,mid
+369,"['Approach', 'Touch', 'None']",Adult,Female,40160,3.99601593625498,7.535588611256748,mid
+370,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Touch', 'None', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,146000,4.170410958904109,7.974227515219773,mid
+371,"['Approach', 'None', 'Touch', 'None', 'Touch', 'Approach', 'Gesture', 'Approach', 'Touch', 'Approach', 'Gesture', 'None']",Adult,Female,101680,4.25177025963808,8.178862681745986,high
+372,"['Approach', 'None', 'Touch', 'None']",Child,Male,59600,3.9758389261744966,7.4848393326792255,mid
+373,"['Approach', 'None']",Child,Male,45520,3.878734622144112,7.240602284838268,mid
+374,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,74320,4.130247578040904,7.87320845462003,mid
+375,"['Approach', 'Gesture']",Child,Male,11680,3.986301369863014,7.511154503620424,mid
+376,['Pass'],Adult,Male,10720,1.0,0.0,low
+377,['Pass'],Child,Female,10560,1.0,0.0,low
+378,['Pass'],Child,Male,10480,1.0,0.0,low
+379,['Pass'],Child,Male,4560,1.0,0.0,low
+380,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,47840,3.951505016722408,7.423634607859327,mid
+381,"['Approach', 'None', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Touch']",Adult,Male,35040,4.215753424657534,8.088273026260984,high
+382,"['Approach', 'None']",Adult,Female,12960,3.6049382716049374,6.551948851470461,mid
+383,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,62160,4.33976833976834,8.400195726880233,high
+384,"['Approach', 'Gesture', 'None']",Adult,Female,20480,4.02734375,7.614384425930431,mid
+385,"['Approach', 'None']",Adult,Female,16240,3.246305418719212,5.649914383253867,mid
+386,"['Pass', 'Gesture', 'None', 'Gesture']",Adult,Female,35600,2.975280898876405,4.968232667083926,mid
+387,"['Approach', 'None', 'Touch', 'None']",Child,Male,25600,4.003125,7.553469350522986,mid
+388,"['Approach', 'None', 'Touch']",Child,Male,20880,4.275862068965518,8.239458475578559,high
+389,"['Approach', 'None']",Child,Male,3360,3.3095238095238093,5.808921476642225,mid
+390,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch']",Child,Male,24880,4.745980707395499,9.421902338717942,high
+391,"['Approach', 'Touch']",Child,Male,2640,3.9090909090909087,7.316954512284115,mid
+392,"['Approach', 'Gesture']",Child,Male,11440,4.258741258741258,8.196396160395187,high
+393,"['Approach', 'None', 'Touch']",Child,Male,21280,4.466165413533835,8.718110040364838,high
+394,['Approach'],Child,Male,2640,3.0,5.03040622719533,mid
+395,['Pass'],Child,Male,5840,1.0,0.0,low
+396,['Approach'],Child,Male,12880,3.0,5.03040622719533,mid
+397,"['Pass', 'Gesture', 'Touch']",Adult,Male,21120,1.6515151515151514,1.638692937646963,low
+398,"['Approach', 'None']",Adult,Male,30320,3.614775725593668,6.576692046372786,mid
+399,"['Approach', 'None']",Adult,Male,28320,3.4971751412429377,6.280902690452925,mid
+400,"['Approach', 'Touch']",Child,Female,17840,4.5156950672645735,8.842687179643807,high
+401,['Pass'],Child,Female,14560,1.0,0.0,low
+402,['Pass'],Adult,Female,8800,1.0,0.0,low
+403,['Pass'],Adult,Female,7040,1.0,0.0,low
+404,"['Approach', 'None']",Adult,Female,24400,3.908196721311476,7.314705448397143,mid
+405,"['Approach', 'None']",Adult,Female,40960,3.888671875,7.265596494162004,mid
+406,"['Approach', 'None']",Adult,Female,28080,3.843304843304844,7.151489194787662,mid
+407,"['Approach', 'Touch', 'None']",Adult,Female,25680,3.906542056074766,7.31054362924181,mid
+408,"['Approach', 'None']",Adult,Female,74800,3.819251336898396,7.090989740581223,mid
+409,"['Approach', 'None']",Adult,Female,33520,3.8520286396181382,7.173431314437254,mid
+410,"['Approach', 'None']",Adult,Female,39680,3.673387096774193,6.724111549658272,mid
+411,"['Approach', 'None']",Adult,Female,19360,3.834710743801653,7.129873288958669,mid
+412,['Follow'],Adult,Female,4480,2.0,2.515203113597665,low
+413,['Pass'],Child,Male,4720,1.0,0.0,low
+414,"['Approach', 'Touch', 'None']",Child,Male,23600,4.403389830508475,8.560216698481545,high
+415,"['Approach', 'None', 'Touch', 'None']",Child,Male,23840,3.97986577181208,7.494967667364852,mid
+416,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,34800,4.560919540229885,8.956435914856971,high
+417,"['Approach', 'None']",Child,Male,6640,3.6024096385542173,6.5455888257481405,mid
+418,"['Approach', 'Touch', 'None']",Child,Male,20080,3.9282868525896415,7.365236209140572,mid
+419,"['Approach', 'Touch']",Child,Male,23360,4.897260273972603,9.80240117559638,high
+420,"['Approach', 'None']",Child,Male,40320,3.6150793650793656,6.577455761352624,mid
+421,"['Approach', 'None']",Child,Male,34000,3.905882352941176,7.308884341866154,mid
+422,"['Approach', 'Touch', 'None']",Child,Male,35920,4.412026726057906,8.581940245059291,high
+423,"['Approach', 'Touch', 'None', 'Touch']",Child,Male,35280,4.281179138321996,8.252831984979185,high
+424,['Avoid'],Child,Male,4560,2.0,2.515203113597665,low
+425,['Follow'],Child,Male,6480,2.0,2.515203113597665,low
+426,['Pass'],Child,Female,8080,1.0,0.0,low
+427,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Female,48320,4.029801324503311,7.620565724973058,mid
+428,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']",Child,Female,44560,4.251346499102334,8.177796837927058,high
+429,"['Approach', 'None']",Child,Female,15280,3.806282722513089,7.058371041300252,mid
+430,"['Approach', 'Touch']",Child,Female,4640,4.551724137931035,8.93330761036412,high
+431,"['Approach', 'None', 'Touch']",Child,Female,9360,4.085470085470086,7.760583965886813,mid
+432,"['Approach', 'None', 'Gesture', 'None']",Child,Female,23120,3.889273356401384,7.267109342055536,mid
+433,['Pass'],Child,Female,11680,1.0,0.0,low
+434,['Approach'],Child,Female,3040,3.0,5.03040622719533,mid
+435,['Avoid'],Child,Female,4640,2.0,2.515203113597665,low
+436,['Follow'],Child,Female,15440,2.0,2.515203113597665,low
+437,['Pass'],Adult,Male,14880,1.0,0.0,low
+438,"['Approach', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Touch', 'None']",Adult,Male,70960,4.148816234498309,7.91991239715702,mid
+439,"['Approach', 'None']",Adult,Male,13040,3.7300613496932513,6.866658807061109,mid
+440,"['Approach', 'None']",Adult,Male,7360,3.3260869565217392,5.850581155542395,mid
+441,['Pass'],Adult,Male,14560,1.0,0.0,low
+442,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']",Adult,Female,42800,3.8897196261682248,7.268231801162599,mid
+443,"['Approach', 'None']",Adult,Male,6560,3.414634146341463,6.073295323077287,mid
+444,"['Approach', 'Touch', 'None', 'Touch', 'None']",Adult,Male,45200,4.145132743362832,7.91064766878416,mid
+445,"['Approach', 'Touch']",Adult,Male,8080,3.633663366336634,6.624198299178008,mid
+446,"['Approach', 'None', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']",Child,Male,87600,4.119634703196347,7.846514918766778,mid
+447,['Pass'],Adult,Male,14640,1.0,0.0,low
+448,"['Approach', 'None']",Adult,Male,23440,3.8122866894197953,7.0734722375579375,mid
+449,['Follow'],Adult,Male,9040,2.0,2.515203113597665,low
+450,"['Approach', 'Gesture', 'None']",Child,Female,21280,4.06766917293233,7.715811055246969,mid
+451,"['Approach', 'Touch', 'None']",Child,Male,10080,4.015873015873016,7.585533199738989,mid
+452,['Pass'],Adult,Female,23520,1.0,0.0,low
+453,"['Approach', 'Touch', 'None']",Adult,Female,35160,3.873720136518772,7.227989834980319,mid
+454,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,70320,4.155858930602959,7.937626208327558,mid
+455,"['Avoid', 'None']",Adult,Female,21680,3.601476014760148,6.543240572274368,mid
+456,"['Approach', 'None']",Child,Male,44000,3.84,7.143176842617367,mid
+457,"['Approach', 'None', 'Touch', 'None']",Child,Male,58240,4.028846153846154,7.618163276762159,mid
+458,"['Approach', 'None', 'Touch', 'None']",Child,Male,32240,3.821339950372209,7.096243027693659,mid
+459,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,68800,4.474418604651163,8.73886849236026,high
+460,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,33280,4.069711538461538,7.720948019385139,mid
+461,"['Approach', 'Gesture', 'None']",Child,Male,21280,4.24436090225564,8.160226642987913,high
+462,"['Approach', 'None', 'Touch', 'None']",Child,Male,31760,3.828715365239295,7.114793694131429,mid
+463,"['Approach', 'Touch']",Child,Male,26160,4.755351681957187,9.445472243112944,high
+464,"['Approach', 'None']",Child,Male,10240,3.8203125,7.093658781318414,mid
+465,"['Approach', 'Touch', 'None', 'Touch']",Child,Male,17920,4.482142857142858,8.758296556277584,high
+466,['Pass'],Child,Male,13760,1.0,0.0,low
+467,"['Approach', 'None']",Child,Male,15680,3.5408163265306127,6.390669135569578,mid
+468,"['Approach', 'None']",Child,Male,6960,3.2528735632183907,5.666434600748762,mid
+469,"['Approach', 'Gesture']",Child,Male,6160,3.8571428571428568,7.186294610279042,mid
+470,"['Approach', 'None', 'Gesture', 'None', 'Gesture']",Child,Male,24280,4.482701812191103,8.759702441755293,high
+471,"['Approach', 'None']",Child,Male,13280,3.5963855421686746,6.530436999762611,mid
+472,['Pass'],Child,Female,7680,1.0,0.0,low
+473,"['Approach', 'Gesture', 'None', 'Gesture', 'None']",Child,Female,20320,3.9488188976377954,7.416878472774217,mid
+474,['Pass'],Child,Female,11520,1.0,0.0,low
+475,"['Approach', 'None']",Child,Female,17440,3.6788990825688073,6.737975313490992,mid
+476,"['Approach', 'None']",Adult,Female,30880,3.3834196891191706,5.994784623082516,mid
+477,['Pass'],Adult,Female,7360,1.0,0.0,low
+478,"['Approach', 'None']",Adult,Female,26080,3.401840490797546,6.041116680818931,mid
+479,"['Approach', 'None']",Adult,Male,141280,3.928652321630804,7.366155438010828,mid
+480,"['Approach', 'None']",Adult,Male,44480,3.857913669064749,7.188233358824982,mid
+481,['Avoid'],Adult,Male,5760,2.0,2.515203113597665,low
+482,['Pass'],Adult,Male,21120,1.0,0.0,low
+483,['Pass'],Adult,Female,12480,1.0,0.0,low
+484,['Pass'],Child,Male,10560,1.0,0.0,low
+485,['Pass'],Adult,Female,15360,1.0,0.0,low
+486,"['Approach', 'None']",Adult,Female,29440,3.6521739130434794,6.670756083889459,mid
+487,"['Approach', 'None']",Child,Male,9600,3.1833333333333336,5.491526798021569,mid
+488,['Pass'],Child,Male,12640,1.0,0.0,low
+489,"['Approach', 'Gesture', 'None']",Child,Male,33840,4.026004728132388,7.611016513959836,mid
+490,"['Approach', 'None']",Child,Male,9280,3.724137931034482,6.851760206007431,mid
+491,"['Approach', 'None']",Child,Male,32080,3.685785536159601,6.755296143004203,mid
+492,"['Approach', 'None']",Child,Male,43920,3.870673952641166,7.220328063806775,mid
+493,"['Approach', 'None']",Child,Male,13280,3.626506024096385,6.606196129690252,mid
+494,['Pass'],Adult,Male,19120,1.0,0.0,low
+495,"['Approach', 'None']",Adult,Male,21440,3.742537313432836,6.898038389904043,mid
+496,"['Approach', 'None']",Adult,Male,14400,3.85,7.168328873753343,mid
+497,"['Approach', 'None']",Adult,Male,32080,3.85286783042394,7.175542049764908,mid
+498,"['Approach', 'None']",Adult,Male,15120,3.8571428571428568,7.186294610279042,mid
+499,"['Approach', 'None', 'None', 'Touch']",Adult,Male,22360,3.849731663685152,7.167653953418749,mid
+500,"['Approach', 'None', 'Touch', 'None']",Adult,Male,25760,4.018633540372671,7.592476479555684,mid
+501,"['Approach', 'None']",Adult,Male,22720,3.802816901408451,7.049653797266695,mid
+502,['Pass'],Child,Female,15760,1.0,0.0,low
+503,"['Approach', 'None']",Child,Female,160640,3.9661354581673303,7.4604331397349055,mid
+504,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Female,26000,4.1692307692307695,7.971259098478754,mid
+505,"['Approach', 'None']",Child,Female,28720,3.534818941504178,6.375584494077645,mid
+506,"['Approach', 'None']",Adult,Female,31040,3.5489690721649487,6.411174946773429,mid
+507,['Pass'],Adult,Female,13920,1.0,0.0,low
+508,"['Approach', 'None']",Adult,Female,40960,3.67578125,6.730133331306252,mid
+509,"['Approach', 'None']",Adult,Female,102800,3.9330739299610897,7.377276681050272,mid
+510,"['Approach', 'None']",Adult,Female,26760,3.5186846038863977,6.335003357865569,mid
+511,['Pass'],Adult,Male,15280,1.0,0.0,low
+512,['Pass'],Child,Female,21280,1.0,0.0,low
+513,['Pass'],Child,Male,11040,1.0,0.0,low
+514,['Pass'],Adult,Male,30960,1.0,0.0,low
+515,"['Approach', 'None']",Adult,Female,11760,3.258503401360544,5.680594787172957,mid
+516,"['Approach', 'None']",Adult,Male,12000,3.513333333333333,6.3215438255087975,mid
+517,"['Approach', 'None']",Child,Male,11280,3.2695035460992905,5.708262385469877,mid
+518,"['Approach', 'None']",Child,Male,14880,3.618279569892473,6.585504926462702,mid
+519,['Pass'],Adult,Female,11280,1.0,0.0,low
+520,['Pass'],Adult,Male,12880,1.0,0.0,low
+521,['Pass'],Child,Male,13760,1.0,0.0,low
+522,['Pass'],Child,Female,12800,1.0,0.0,low
+523,"['Pass', 'Gesture']",Child,Male,16720,3.354066985645933,5.920956611914119,mid
+524,['Pass'],Adult,Male,22080,1.0,0.0,low
+525,['Pass'],Child,Male,23040,1.0,0.0,low
+526,"['Approach', 'None']",Adult,Female,20800,3.2884615384615383,5.755945586886964,mid
+527,"['Approach', 'None']",Adult,Female,43040,3.799256505576208,7.040698678583798,mid
+528,['Pass'],Adult,Female,11760,1.0,0.0,low
+529,"['Approach', 'Gesture']",Adult,Male,20640,3.744186046511628,6.9021852884773125,mid
+530,"['Approach', 'None']",Adult,Male,17360,3.612903225806452,6.571982329077769,mid
+531,['Pass'],Adult,Male,14240,1.0,0.0,low
+532,"['Approach', 'None', 'Touch']",Child,Male,34800,4.714942528735632,9.343835015112242,high
+533,['Pass'],Child,Male,9520,1.0,0.0,low
+534,"['Approach', 'None']",Adult,Female,23520,3.639455782312925,6.638767401876829,mid
+535,['Follow'],Adult,Female,13920,2.0,2.515203113597665,low
+536,"['Approach', 'None']",Adult,Male,17600,3.6,6.539528095353928,mid
+537,['Follow'],Adult,Male,9600,2.0,2.515203113597665,low
+538,"['Approach', 'None']",Child,Male,15840,3.494949494949495,6.2753047379658895,mid
+539,['Avoid'],Child,Male,4240,2.0,2.515203113597665,low
+540,['Follow'],Child,Male,9840,2.0,2.515203113597665,low
+541,"['Approach', 'None']",Child,Male,12640,3.531645569620253,6.367602819234594,mid
+542,['Avoid'],Child,Male,5840,2.0,2.515203113597665,low
+543,['Follow'],Child,Male,12320,2.0,2.515203113597665,low
+544,['Pass'],Child,Male,11120,1.0,0.0,low
+545,"['Approach', 'Touch', 'None']",Adult,Male,23840,3.550335570469798,6.414611967564513,mid
+546,['Avoid'],Adult,Male,3680,2.0,2.515203113597665,low
+547,"['Approach', 'Gesture', 'None']",Adult,Male,14880,3.806451612903226,7.058795834935382,mid
+548,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,19200,3.958333333333333,7.440809211059757,mid
+549,"['Approach', 'None']",Adult,Male,8640,3.2592592592592595,5.682495923313243,mid
+550,"['Approach', 'None', 'None']",Adult,Male,17360,3.5990783410138247,6.537209935802225,mid
+551,"['Approach', 'Gesture', 'None']",Child,Male,15360,3.6614583333333335,6.694108286710452,mid
+552,['Avoid'],Child,Male,1760,2.0,2.515203113597665,low
+553,"['Approach', 'Gesture']",Child,Male,12160,4.61842105263158,9.10106389788629,high
+554,"['Approach', 'Gesture', 'None', 'Gesture', 'None']",Child,Male,13120,4.353658536585366,8.435132393162899,high
+555,['Avoid'],Child,Male,2160,2.0,2.515203113597665,low
+556,['Avoid'],Child,Male,240,2.0,2.515203113597665,low
+557,['Follow'],Child,Male,2720,2.0,2.515203113597665,low
+558,"['Approach', 'Touch', 'None']",Child,Male,15840,4.156565656565657,7.939403767669396,mid
+559,"['Approach', 'Touch', 'None']",Child,Male,37280,4.081545064377682,7.750711740614262,mid
+560,"['Approach', 'None']",Child,Male,50880,3.907232704402516,7.312280750066166,mid
+561,"['Approach', 'None']",Child,Male,6240,3.397435897435897,6.030038233881579,mid
+562,"['Approach', 'Touch', 'None']",Child,Male,23200,4.013793103448276,7.580301797532273,mid
+563,['Pass'],Adult,Male,11280,1.0,0.0,low
+564,['Pass'],Adult,Male,21200,1.0,0.0,low
+565,"['Approach', 'Gesture', 'None']",Adult,Female,36640,3.6768558951965065,6.732836282250517,mid
+566,"['Approach', 'Gesture', 'None']",Child,Male,38880,3.6604938271604937,6.691682357781441,mid
+567,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None']",Child,Male,38000,3.650526315789474,6.666612042146232,mid
+568,['Pass'],Adult,Male,22880,1.0,0.0,low
+569,['Pass'],Adult,Female,19360,1.0,0.0,low
+570,['Pass'],Child,Male,19520,1.0,0.0,low
+571,['Pass'],Child,Male,21040,1.0,0.0,low
+572,['Approach'],Adult,Female,14480,3.0,5.03040622719533,mid
+573,['Pass'],Adult,Female,24320,1.0,0.0,low
+574,['Pass'],Adult,Female,13520,1.0,0.0,low
+575,['Pass'],Adult,Female,9120,1.0,0.0,low
+576,['Pass'],Adult,Female,7680,1.0,0.0,low
+577,['Pass'],Adult,Female,8160,1.0,0.0,low
+578,['Pass'],Adult,Female,11760,1.0,0.0,low
+579,"['Approach', 'None']",Adult,Female,9200,3.3304347826086955,5.861516821253688,mid
+580,['Pass'],Adult,Female,13520,1.0,0.0,low
+581,['Pass'],Adult,Male,18720,1.0,0.0,low
+582,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None']",Child,Male,32800,4.21219512195122,8.07932317221494,high
+583,['Pass'],Adult,Male,23040,1.0,0.0,low
+584,['Pass'],Child,Male,7360,1.0,0.0,low
+585,"['Approach', 'None']",Child,Male,36000,3.811111111111111,7.070515419335656,mid
+586,"['Approach', 'None']",Child,Male,9360,3.3931623931623927,6.019289502626889,mid
+587,"['Approach', 'Touch', 'None', 'Gesture']",Child,Male,22960,4.240418118466899,8.150309740926232,high
+588,"['Approach', 'Touch', 'None']",Child,Male,11280,4.078014184397163,7.74183086029352,mid
+589,['Pass'],Child,Male,5200,1.0,0.0,low
+590,"['Approach', 'None', 'Touch', 'None']",Child,Male,60320,3.9681697612732094,7.465549825240814,mid
+591,['Pass'],Child,Female,15840,1.0,0.0,low
+592,['Pass'],Adult,Male,17200,1.0,0.0,low
+593,['Pass'],Child,Female,11360,1.0,0.0,low
+594,['Pass'],Child,Female,18480,1.0,0.0,low
+595,['Pass'],Adult,Female,10960,1.0,0.0,low
+596,['Pass'],Adult,Female,8960,1.0,0.0,low
+597,['Pass'],Adult,Male,9840,1.0,0.0,low
+598,['Pass'],Child,Male,8960,1.0,0.0,low
+599,['Pass'],Child,Female,11440,1.0,0.0,low
+600,['Pass'],Child,Female,8480,1.0,0.0,low
+601,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,71760,4.102564102564104,7.803578890905578,mid
+602,"['Approach', 'None']",Adult,Female,77120,3.91701244813278,7.336878791946715,mid
+603,"['Approach', 'None']",Adult,Female,34560,3.787037037037037,7.009964233267566,mid
+604,"['Approach', 'None', 'Touch', 'None']",Adult,Female,144960,4.02869757174393,7.617789562596019,mid
+605,['Approach'],Adult,Female,13120,3.0,5.03040622719533,mid
+606,"['Approach', 'None']",Adult,Female,50000,3.8736,7.22768766723425,mid
+607,"['Approach', 'None']",Adult,Female,14720,3.4510869565217392,6.164981544742102,mid
+608,"['Approach', 'None']",Adult,Male,19280,3.3236514522821574,5.844455367695818,mid
+609,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,82080,4.014619883040936,7.58238131613799,mid
+610,"['Approach', 'None']",Adult,Male,26160,3.694189602446483,6.776434076695849,mid
+611,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,24880,4.012861736334405,7.577959220067561,mid
+612,"['Approach', 'None']",Child,Male,50320,3.559618441971383,6.437960274868426,mid
+613,"['Approach', 'None']",Child,Male,14560,3.615384615384616,6.578223527870817,mid
+614,"['Approach', 'None']",Child,Male,81760,3.7857142857142856,7.006637245022066,mid
+615,"['Approach', 'None']",Child,Male,11120,3.79136690647482,7.020854734358949,mid
+616,"['Approach', 'None']",Child,Male,24720,3.673139158576052,6.723487934730327,mid
+617,"['Approach', 'None']",Child,Male,42400,3.9,7.294089029433229,mid
+618,"['Approach', 'None']",Child,Male,11120,3.5323741007194247,6.369435222923583,mid
+619,"['Approach', 'Touch']",Child,Male,29280,4.759562841530054,9.456064164782475,high
+620,"['Approach', 'None']",Child,Female,20560,3.132295719844358,5.363156833663503,mid
+621,"['Approach', 'None']",Child,Female,37760,3.9110169491525424,7.321798894244049,mid
+622,"['Approach', 'None']",Child,Female,100800,3.9015873015873015,7.298081415327827,mid
+623,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch']",Child,Female,58400,4.501369863013699,8.806656381309084,high
+624,"['Approach', 'None']",Child,Female,33640,3.897740784780024,7.288406644277655,mid
+625,"['Approach', 'None']",Child,Female,29120,3.354395604395605,5.921783154816481,mid
+626,"['Approach', 'None']",Child,Female,7760,3.268041237113402,5.704584381355527,mid
+627,"['Approach', 'None']",Child,Female,47440,3.858347386172007,7.1893242454435775,mid
+628,"['Approach', 'None']",Child,Female,8960,3.4107142857142856,6.063436077422941,mid
+629,"['Approach', 'None']",Adult,Male,41440,3.314671814671814,5.821869755219304,mid
+630,"['Approach', 'Touch', 'None']",Adult,Male,44560,4.143626570915619,7.906859339155314,mid
+631,"['Approach', 'None']",Adult,Male,19120,3.652719665271967,6.672128761593806,mid
+632,"['Approach', 'None']",Adult,Male,71200,3.802247191011236,7.04822085990177,mid
+633,"['Approach', 'None']",Adult,Male,27360,3.789473684210527,7.016092895825066,mid
+634,"['Approach', 'None']",Child,Female,15840,3.2727272727272725,5.7163707127219645,mid
+635,"['Approach', 'None']",Child,Female,24720,3.737864077669903,6.886284252762539,mid
+636,"['Approach', 'None']",Child,Female,43120,3.9443413729128016,7.405616588644701,mid
+637,"['Approach', 'None']",Child,Female,23520,3.5680272108843534,6.459110036619852,mid
+638,"['Approach', 'None']",Child,Female,93040,3.799656061908856,7.041703643915732,mid
+639,"['Approach', 'None']",Child,Female,6080,3.6447368421052633,6.652050339909613,mid
+640,"['Approach', 'None']",Child,Female,30240,3.780423280423281,6.993329292040068,mid
+641,['Pass'],Child,Female,7440,1.0,0.0,low
+642,"['Approach', 'None']",Child,Female,87840,3.821493624772313,7.096629550023284,mid
+643,"['Approach', 'None']",Child,Female,13760,3.6569767441860463,6.682836179733329,mid
+644,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,72080,4.157602663706992,7.942012051260106,mid
+645,"['Approach', 'None']",Adult,Female,10560,3.5,6.2880077839941615,mid
+646,"['Approach', 'None']",Adult,Female,64480,3.962779156327543,7.451991358897299,mid
+647,"['Approach', 'None']",Adult,Female,5600,3.7,6.791048406713695,mid
+648,['Pass'],Adult,Female,19360,1.0,0.0,low
+649,['Pass'],Adult,Female,6880,1.0,0.0,low
+650,"['Approach', 'None', 'Touch', 'None']",Adult,Female,90480,3.991158267020336,7.523370586472943,mid
+651,"['Approach', 'None']",Adult,Female,59360,3.952830188679245,7.426967684491217,mid
+652,"['Pass', 'None']",Adult,Male,59440,3.5275908479138627,6.357404370573909,mid
+653,['Approach'],Adult,Male,16640,3.0,5.03040622719533,mid
+654,"['Approach', 'None', 'Touch', 'None']",Adult,Male,32960,4.577669902912621,8.99856647923048,high
+655,"['Approach', 'None', 'Touch', 'None']",Adult,Male,119680,3.969251336898396,7.468270207620873,mid
+656,['Pass'],Adult,Male,13440,1.0,0.0,low
+657,"['Approach', 'None']",Child,Male,34720,3.493087557603687,6.270621587356391,mid
+658,['Approach'],Child,Male,9440,3.0,5.03040622719533,mid
+659,"['Approach', 'None']",Child,Male,30800,3.6831168831168832,6.748583938562046,mid
+660,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,93840,4.207161125319693,8.066661648213483,high
+661,"['Approach', 'Touch', 'None']",Child,Male,39040,4.0,7.545609340792994,mid
+662,['Pass'],Adult,Male,19120,1.0,0.0,low
+663,"['Approach', 'None']",Adult,Male,34240,3.742990654205608,6.89917863402724,mid
+664,"['Approach', 'None', 'Touch', 'None']",Adult,Male,22240,3.920863309352518,7.346564490076632,mid
+665,"['Approach', 'None']",Adult,Male,9840,3.658536585365854,6.686759497125499,mid
+666,"['Approach', 'None']",Adult,Male,4640,3.2758620689655173,5.724255361980893,mid
+667,"['Approach', 'Touch', 'None', 'Touch']",Adult,Male,54400,4.879411764705882,9.757508549515643,high
+668,['Pass'],Child,Male,9680,1.0,0.0,low
+669,"['Approach', 'None']",Child,Male,5440,3.264705882352941,5.696195286677064,mid
+670,"['Approach', 'None']",Child,Male,14080,3.761363636363636,6.945390415957188,mid
+671,"['Approach', 'None']",Child,Male,5760,3.5277777777777777,6.357874537149653,mid
+672,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,97280,4.111842105263158,7.826914952182208,mid
+673,"['Approach', 'None']",Child,Male,9680,3.628099173553719,6.610203224165764,mid
+674,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,51280,4.154446177847114,7.934072848197315,mid
+675,"['Approach', 'Touch']",Child,Male,22080,4.550724637681159,8.930793664223591,high
+676,"['Approach', 'Touch']",Child,Male,40880,4.346379647749511,8.416824509299426,high
+677,['Pass'],Child,Female,12640,1.0,0.0,low
+678,['Pass'],Adult,Female,16400,1.0,0.0,low
+679,"['Approach', 'None']",Adult,Female,33760,3.488151658767772,6.258206799235895,mid
+680,['Pass'],Adult,Male,17120,1.0,0.0,low
+681,['Pass'],Adult,Male,12720,1.0,0.0,low
+682,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,37120,4.448275862068965,8.673114184819532,high
+683,['Pass'],Adult,Male,7680,1.0,0.0,low
+684,['Pass'],Child,Female,12880,1.0,0.0,low
+685,"['Approach', 'None']",Child,Female,35480,3.821871476888388,7.097579924842114,mid
+686,['Pass'],Adult,Male,15320,1.0,0.0,low
+687,['Pass'],Child,Male,12200,1.0,0.0,low
+688,"['Approach', 'None']",Adult,Male,4400,3.4909090909090907,6.265142301143274,mid
+689,['Pass'],Adult,Male,14000,1.0,0.0,low
+690,['Pass'],Child,Male,15200,1.0,0.0,low
+691,['Pass'],Adult,Male,24080,1.0,0.0,low
+692,['Pass'],Child,Male,19600,1.0,0.0,low
+693,['Pass'],Child,Male,21360,1.0,0.0,low
+694,['Pass'],Adult,Male,17440,1.0,0.0,low
+695,['Pass'],Child,Male,21680,1.0,0.0,low
+696,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,103800,4.101348747591523,7.800522026294415,mid
+697,"['Approach', 'None']",Adult,Male,10960,3.802919708029197,7.049912376799295,mid
+698,['Pass'],Adult,Male,12000,1.0,0.0,low
+699,"['Approach', 'None']",Child,Male,15520,3.139175257731959,5.380460268778511,mid
+700,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,46720,4.078767123287672,7.743724654535277,mid
+701,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,17920,4.075892857142857,7.73649529137853,mid
+702,"['Approach', 'None', 'Touch', 'None']",Child,Male,25520,4.031347962382445,7.624455833382262,mid
+703,['Pass'],Child,Male,14960,1.0,0.0,low
+704,['Pass'],Adult,Female,13920,1.0,0.0,low
+705,['Pass'],Adult,Male,19680,1.0,0.0,low
+706,['Pass'],Adult,Male,8640,1.0,0.0,low
+707,['Pass'],Child,Female,7360,1.0,0.0,low
+708,['Pass'],Child,Female,5520,1.0,0.0,low
+709,"['Pass', 'None']",Child,Female,6320,2.2151898734177213,3.0564493532326047,low
+710,['Pass'],Child,Male,14640,1.0,0.0,low
+711,['Pass'],Child,Male,8160,1.0,0.0,low
+712,"['Approach', 'None']",Child,Male,10400,3.507692307692308,6.307355500252605,mid
+713,['Pass'],Child,Male,5840,1.0,0.0,low
+714,['Pass'],Child,Male,3840,1.0,0.0,low
+715,['Pass'],Child,Male,6880,1.0,0.0,low
+716,['Pass'],Child,Male,10480,1.0,0.0,low
+717,['Pass'],Child,Male,10960,1.0,0.0,low
+718,['Pass'],Child,Male,20160,1.0,0.0,low
+719,['Pass'],Child,Male,6480,1.0,0.0,low
+720,['Pass'],Child,Male,12080,1.0,0.0,low
+721,['Pass'],Child,Male,12960,1.0,0.0,low
+722,['Pass'],Adult,Male,13280,1.0,0.0,low
+723,['Pass'],Adult,Male,9600,1.0,0.0,low
+724,['Pass'],Adult,Male,9920,1.0,0.0,low
+725,['Pass'],Adult,Male,12640,1.0,0.0,low
+726,['Pass'],Adult,Male,13040,1.0,0.0,low
+727,['Pass'],Adult,Male,11360,1.0,0.0,low
+728,['Pass'],Child,Male,5360,1.0,0.0,low
+729,"['Pass', 'Gesture']",Child,Male,9200,2.495652173913044,3.7618690046852032,low
+730,['Pass'],Adult,Male,7440,1.0,0.0,low
+731,"['Approach', 'Gesture', 'None']",Child,Male,14720,3.8369565217391295,7.135521876619462,mid
+732,"['Approach', 'Gesture', 'None']",Child,Male,24080,4.534883720930232,8.890950541089417,high
+733,"['Approach', 'None', 'None']",Child,Male,41200,3.9533980582524273,7.428395991809802,mid
+734,"['Approach', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None']",Child,Male,75920,4.285563751317177,8.263860177236587,high
+735,"['Approach', 'None', 'Gesture', 'Touch']",Child,Male,6720,3.976190476190476,7.485723552374001,mid
+736,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,151280,4.096774193548387,7.7890160937218,mid
+737,"['Approach', 'None']",Child,Male,8880,3.477477477477477,6.23135906521944,mid
+738,"['Approach', 'Touch', 'Gesture', 'Touch', 'None', 'Touch', 'None']",Child,Male,62640,4.136653895274584,7.889321643672877,mid
+739,['Pass'],Adult,Female,12960,1.0,0.0,low
+740,"['Approach', 'None']",Adult,Female,55200,3.77536231884058,6.980599945709461,mid
+741,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'None']",Adult,Male,140080,3.968589377498573,7.466605245277362,mid
+742,['Pass'],Adult,Male,17920,1.0,0.0,low
+743,['Pass'],Adult,Male,20000,1.0,0.0,low
+744,"['Approach', 'None']",Adult,Male,23360,3.136986301369863,5.374954598921037,mid
+745,"['Approach', 'None']",Adult,Male,80720,3.89990089197225,7.293839752613248,mid
+746,['Pass'],Child,Female,18960,1.0,0.0,low
+747,['Pass'],Child,Female,11760,1.0,0.0,low
+748,"['Approach', 'None', 'Gesture', 'None']",Child,Female,13120,3.5731707317073176,6.472047036208625,mid
+749,"['Approach', 'Touch', 'None']",Child,Female,24000,3.65,6.665288251033811,mid
+750,['Pass'],Child,Female,20640,1.0,0.0,low
+751,"['Approach', 'None']",Child,Female,5680,3.366197183098592,5.951466522315601,mid
+752,['Pass'],Child,Female,4480,1.0,0.0,low
+753,"['Approach', 'None']",Child,Female,52960,3.93202416918429,7.374636319475933,mid
+754,"['Approach', 'None', 'Touch']",Child,Female,7200,4.011111111111111,7.57355604205519,mid
+755,['Pass'],Child,Female,11840,1.0,0.0,low
+756,['Pass'],Adult,Female,9920,1.0,0.0,low
+757,"['Approach', 'None']",Child,Female,7440,3.3870967741935485,6.004033238910554,mid
+758,['Pass'],Adult,Female,12960,1.0,0.0,low
+759,"['Approach', 'None', 'Gesture', 'None', 'Gesture', 'None']",Adult,Female,32480,3.9384236453201966,7.390732301778359,mid
+760,"['Approach', 'None']",Adult,Male,11680,3.0821917808219177,5.237135250230754,mid
+761,"['Approach', 'None']",Adult,Male,17200,3.8790697674418606,7.241445243334672,mid
+762,"['Approach', 'None']",Child,Female,12960,3.0864197530864192,5.247769459234632,mid
+763,"['Approach', 'None']",Child,Female,18320,3.799126637554585,7.040372034131454,mid
+764,"['Approach', 'Gesture']",Child,Female,6400,4.275,8.237290197032353,high
+765,['Pass'],Child,Male,7040,1.0,0.0,low
+766,"['Approach', 'Touch', 'None']",Child,Male,10000,3.904,7.304149841887618,mid
+767,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch']",Child,Male,69280,4.460739030023095,8.70446158366305,high
+768,"['Pass', 'None']",Adult,Female,27200,2.2,3.0182437363171983,low
+769,['Pass'],Adult,Female,25760,1.0,0.0,low
+770,['Pass'],Adult,Female,10560,1.0,0.0,low
+771,"['Approach', 'Gesture']",Adult,Female,6720,3.5,6.2880077839941615,mid
+772,['Pass'],Adult,Male,13840,1.0,0.0,low
+773,['Pass'],Adult,Male,8160,1.0,0.0,low
+774,"['Approach', 'Gesture']",Child,Female,8320,3.7884615384615374,7.013547143685796,mid
+775,"['Approach', 'Gesture']",Child,Male,9820,4.234215885947047,8.134709866381042,high
+776,['Pass'],Child,Male,10640,1.0,0.0,low
+777,['Pass'],Adult,Female,8880,1.0,0.0,low
+778,['Pass'],Child,Female,8000,1.0,0.0,low
+779,"['Approach', 'None', 'Touch', 'None']",Adult,Male,68560,3.791131855309218,7.020263532935372,mid
+780,"['Approach', 'None']",Child,Female,68640,3.7855477855477857,7.006218463284871,mid
+781,"['Approach', 'None']",Child,Female,8480,3.547169811320755,6.406649440295938,mid
+782,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Female,41840,4.1166347992351815,7.838969550983162,mid
+783,"['Approach', 'None']",Child,Female,29240,3.8002735978112177,7.043256872140109,mid
+784,"['Approach', 'None']",Child,Female,9040,3.628318584070796,6.610755086181472,mid
+785,"['Approach', 'None', 'Touch', 'None']",Child,Female,14960,3.9197860962566846,7.343855080343983,mid
+786,"['Approach', 'None']",Child,Female,15680,3.9081632653061225,7.31462129974831,mid
+787,"['Approach', 'None']",Child,Female,35520,3.9842342342342345,7.505955237650689,mid
+788,"['Avoid', 'None']",Child,Female,3920,2.326530612244898,3.3364939262009834,low
+789,['Avoid'],Child,Female,2320,2.0,2.515203113597665,low
+790,"['Approach', 'None']",Child,Female,4880,3.344262295081968,5.896295823679772,mid
+791,['Avoid'],Child,Female,3920,2.0,2.515203113597665,low
+792,"['Approach', 'None']",Child,Female,6960,3.1149425287356323,5.31951003335598,mid
+793,['Avoid'],Child,Female,1280,2.0,2.515203113597665,low
+794,"['Approach', 'None']",Child,Female,3200,3.35,5.910727316954513,mid
+795,['Avoid'],Child,Female,2880,2.0,2.515203113597665,low
+796,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,62800,4.121019108280255,7.849996978744303,mid
+797,"['Approach', 'Touch', 'None']",Child,Male,19680,3.955284552845528,7.433140908884155,mid
+798,"['Approach', 'None']",Child,Male,9120,3.2982456140350878,5.780554524233228,mid
+799,"['Approach', 'Touch', 'None']",Child,Male,13360,3.9820359281437128,7.500426051327168,mid
+800,"['Approach', 'None']",Child,Male,17120,3.3831775700934577,5.994175644555182,mid
+801,"['Approach', 'None']",Child,Male,4400,3.418181818181818,6.08221843833617,mid
+802,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,23280,4.127147766323024,7.865411798535651,mid
+803,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,74240,4.302801724137931,8.307217180147457,high
+804,['Avoid'],Child,Male,1120,2.0,2.515203113597665,low
+805,"['Approach', 'None', 'Touch']",Child,Male,12880,4.3354037267080745,8.389217838521404,high
+806,"['Avoid', 'None']",Child,Male,11040,3.5362318840579707,6.379138331588279,mid
+807,"['Follow', 'Touch', 'None']",Child,Male,7680,4.0625,7.702809535392848,mid
+808,"['Avoid', 'None']",Child,Male,7520,3.148936170212766,5.405010946241791,mid
+809,['Avoid'],Child,Male,2240,2.0,2.515203113597665,low
+810,"['Follow', 'Gesture', 'Touch']",Child,Male,14320,3.826815642458101,7.110015505477198,mid
+811,['Avoid'],Child,Male,7040,2.0,2.515203113597665,low
+812,"['Follow', 'None']",Child,Male,9760,3.0163934426229506,5.07163906512316,mid
+813,"['Avoid', 'None']",Child,Male,19360,3.173553719008265,5.46692908162137,mid
+814,"['Approach', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']",Child,Male,89760,4.411764705882353,8.581281211097915,high
+815,"['Approach', 'None', 'None']",Adult,Female,71040,3.78490990990991,7.004614076494398,mid
+816,"['Approach', 'Touch', 'None', 'None']",Child,Female,66680,3.843431313737253,7.151807293613035,mid
+817,"['Approach', 'None']",Child,Male,7920,3.191919191919192,5.5131219762696295,mid
+818,"['Approach', 'None']",Child,Male,5520,3.333333333333333,5.868807265061217,mid
+819,"['Approach', 'Gesture']",Child,Male,3520,3.863636363636364,7.2026270980296765,mid
+820,"['Approach', 'None']",Child,Male,1840,3.260869565217392,5.686546169872981,mid
+821,"['Approach', 'None']",Child,Male,2960,3.2972972972972974,5.778169315021662,mid
+822,"['Approach', 'Gesture']",Child,Male,3280,4.024390243902439,7.606955758197815,mid
+823,"['Approach', 'Gesture']",Child,Male,6480,4.407407407407407,8.570321720406858,high
+824,"['Approach', 'None']",Child,Male,7680,3.583333333333333,6.497608043460634,mid
+825,['Pass'],Child,Male,15760,1.0,0.0,low
+826,"['Approach', 'None']",Adult,Female,10240,3.640625,6.641708221843833,mid
+827,"['Approach', 'None', 'Touch']",Adult,Female,24880,3.742765273311897,6.8986117553016335,mid
+828,"['Approach', 'None']",Adult,Male,9200,3.5043478260869563,6.298943449705456,mid
+829,['Pass'],Adult,Male,16800,1.0,0.0,low
+830,['Pass'],Adult,Female,16000,1.0,0.0,low
+831,"['Approach', 'None']",Child,Male,7760,3.484536082474227,6.249112890484919,mid
+832,"['Approach', 'None', 'Touch', 'None', 'Gesture']",Child,Male,31520,4.261421319796955,8.203137058307105,high
+833,"['Approach', 'None']",Child,Male,11760,3.2721088435374157,5.7148152376980965,mid
+834,['Pass'],Adult,Female,15040,1.0,0.0,low
+835,['Pass'],Child,Male,14800,1.0,0.0,low
+836,['Pass'],Child,Male,12160,1.0,0.0,low
+837,['Pass'],Adult,Male,17440,1.0,0.0,low
+838,"['Approach', 'None']",Child,Female,4640,3.362068965517241,5.94108321660138,mid
+839,['Pass'],Adult,Female,24960,1.0,0.0,low
+840,"['Approach', 'None']",Adult,Female,17040,3.300469483568075,5.786148007806834,mid
+841,['Pass'],Adult,Female,7360,1.0,0.0,low
+842,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'Touch', 'None', 'None']",Adult,Female,65200,4.213496932515337,8.08259749019912,high
+843,['Pass'],Child,Female,9040,1.0,0.0,low
+844,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Female,56960,4.308988764044943,8.322778842185528,high
+845,['Pass'],Adult,Female,12000,1.0,0.0,low
+846,"['Approach', 'None']",Adult,Female,29520,3.907859078590786,7.313856208374782,mid
+847,['Pass'],Child,Male,9520,1.0,0.0,low
+848,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,63200,4.040506329113924,7.647490985900748,mid
+849,"['Approach', 'None']",Child,Male,13360,3.55688622754491,6.431088200635945,mid
+850,"['Approach', 'None']",Child,Male,8000,3.71,6.816200437849672,mid
+851,"['Approach', 'Touch', 'None']",Child,Male,29600,3.897297297297297,7.28729118318026,mid
+852,"['Approach', 'Touch', 'None']",Child,Male,18640,4.012875536480687,7.577993930238458,mid
+853,['Pass'],Child,Male,11040,1.0,0.0,low
+854,['Pass'],Child,Male,10560,1.0,0.0,low
+855,"['Approach', 'None']",Child,Male,22240,3.7050359712230216,6.803714897213827,mid
+856,"['Approach', 'None']",Child,Male,30320,3.926121372031662,7.3597895856987074,mid
+857,"['Approach', 'None', 'Touch', 'None']",Child,Male,47200,3.8440677966101697,7.153408177316749,mid
+858,['Pass'],Child,Male,6720,1.0,0.0,low
+859,"['Approach', 'Gesture']",Child,Male,7440,4.053763440860215,7.68083531464233,mid
+860,"['Approach', 'None']",Child,Male,33040,3.8038740920096847,7.052312846358584,mid
+861,"['Approach', 'None']",Adult,Female,17760,3.414414414414414,6.072742652650218,mid
+862,['Pass'],Adult,Male,11920,1.0,0.0,low
+863,['Pass'],Adult,Male,15920,1.0,0.0,low
+864,"['Approach', 'None']",Child,Female,15680,3.193877551020408,5.51804764717855,mid
+865,['Pass'],Child,Female,7200,1.0,0.0,low
+866,['Pass'],Child,Male,15280,1.0,0.0,low
+867,['Pass'],Child,Male,14480,1.0,0.0,low
+868,['Pass'],Child,Male,9200,1.0,0.0,low
+869,['Approach'],Child,Male,4880,3.0,5.03040622719533,mid
+870,['Follow'],Child,Male,3200,2.0,2.515203113597665,low
+871,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'Touch', 'Gesture', 'None']",Adult,Female,86400,4.475925925925926,8.742659711523736,high
+872,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'None']",Adult,Female,64720,4.203955500618047,8.058598850982877,high
+873,['Pass'],Child,Male,10960,1.0,0.0,low
+874,['Pass'],Adult,Female,14640,1.0,0.0,low
+875,['Pass'],Child,Male,8240,1.0,0.0,low
+876,['Pass'],Child,Male,6880,1.0,0.0,low
+877,['Pass'],Adult,Male,13600,1.0,0.0,low
+878,['Pass'],Adult,Male,18720,1.0,0.0,low
+879,['Pass'],Adult,Male,19600,1.0,0.0,low
+880,['Pass'],Child,Male,9280,1.0,0.0,low
+881,['Pass'],Child,Female,8320,1.0,0.0,low
+882,['Pass'],Adult,Male,23040,1.0,0.0,low
+883,"['Approach', 'None']",Adult,Male,20400,3.6666666666666665,6.707208302927105,mid
+884,"['Approach', 'None']",Adult,Female,17680,3.638009049773755,6.635128575689766,mid
+885,"['Approach', 'None']",Child,Female,18240,3.5921052631578947,6.51967122866763,mid
+886,['Pass'],Child,Male,7440,1.0,0.0,low
+887,"['Approach', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Gesture', 'None']",Child,Male,22480,4.188612099644128,8.020007081080097,high
+888,"['Approach', 'Gesture', 'None']",Child,Male,7040,4.204545454545455,8.060082704937972,high
+889,"['Approach', 'Gesture']",Child,Male,4320,4.148148148148148,7.918232024288944,mid
+890,"['Approach', 'None']",Adult,Male,5760,3.180555555555556,5.484540122706019,mid
+891,"['Approach', 'None']",Adult,Male,15200,3.805263157894737,7.055806629197658,mid
+892,['Pass'],Adult,Male,6400,1.0,0.0,low
+893,['Pass'],Adult,Male,14400,1.0,0.0,low
+894,"['Approach', 'Gesture']",Adult,Male,5600,3.8285714285714287,7.114431664176252,mid
+895,['Pass'],Adult,Male,10560,1.0,0.0,low
+896,['Pass'],Adult,Male,7680,1.0,0.0,low
+897,['Pass'],Adult,Male,13200,1.0,0.0,low
+898,['Pass'],Adult,Female,14560,1.0,0.0,low
+899,['Pass'],Child,Female,4640,1.0,0.0,low
+900,"['Approach', 'None']",Child,Female,18080,3.774336283185841,6.978019257635998,mid
+901,"['Approach', 'None']",Child,Female,57200,3.909090909090909,7.316954512284116,mid
+902,"['Approach', 'None']",Child,Female,10640,3.744360902255639,6.902625086189079,mid
+903,"['Approach', 'None']",Child,Female,22080,3.757246376811594,6.935034671912401,mid
+904,"['Approach', 'None']",Child,Female,8800,3.727272727272728,6.859644855266359,mid
+905,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,82480,4.012609117361785,7.577323832041073,mid
+906,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,33920,4.1745283018867925,7.984583469109568,mid
+907,"['Approach', 'None']",Adult,Female,9600,3.1666666666666665,5.449606746128273,mid
+908,"['Approach', 'Touch', 'None']",Child,Male,96400,3.921161825726141,7.347315319389029,mid
+909,"['Approach', 'Touch', 'None', 'Gesture', 'None']",Child,Male,35360,4.052036199095022,7.676490950776582,mid
+910,"['Approach', 'Touch', 'None']",Child,Male,21520,3.970260223048327,7.470807761206446,mid
+911,"['Approach', 'None']",Child,Male,6400,3.2875,5.753527122354658,mid
+912,['Pass'],Adult,Female,11680,1.0,0.0,low
+913,"['Approach', 'Touch', 'None', 'Gesture', 'None', 'Gesture', 'None']",Adult,Female,27360,3.8011695906432745,7.04551047610106,mid
+914,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']",Adult,Female,32720,4.237163814180929,8.142124504653564,high
+915,"['Approach', 'None']",Adult,Female,5680,3.4788732394366195,6.234869690044915,mid
+916,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Gesture', 'None', 'Touch', 'None']",Adult,Female,57520,4.258692628650904,8.196273845840512,high
+917,"['Approach', 'None']",Adult,Female,10080,3.7777777777777777,6.986675315549068,mid
+918,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None']",Adult,Female,77440,4.353305785123967,8.434245151588861,high
+919,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,32080,4.3541147132169575,8.43627977004703,high
+920,['Pass'],Adult,Male,24800,1.0,0.0,low
+921,"['Approach', 'None']",Adult,Male,76720,3.9259645464025024,7.359395137387953,mid
+922,"['Approach', 'None']",Child,Male,14880,3.580645161290323,6.490846744768168,mid
+923,"['Approach', 'None', 'Touch', 'None']",Child,Male,65200,3.83680981595092,7.135152881764172,mid
+924,"['Approach', 'None', 'Touch', 'None']",Child,Male,25200,3.952380952380953,7.42583776395501,mid
+925,"['Approach', 'None']",Child,Male,23760,3.764309764309764,6.952800526140345,mid
+926,"['Approach', 'None']",Child,Male,10960,3.1751824817518246,5.471025750745284,mid
+927,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture']",Child,Male,63160,4.0975300823305885,7.790917307540327,mid
+928,"['Approach', 'None']",Adult,Male,36400,3.881318681318681,7.247101718519865,mid
+929,"['Approach', 'None']",Adult,Male,6880,3.5348837209302326,6.3757474274917545,mid
+930,"['Approach', 'None']",Adult,Male,16320,3.764705882352941,6.953796843475897,mid
+931,"['Approach', 'Gesture', 'None', 'Touch', 'None']",Adult,Male,34800,4.057471264367816,7.69016124387332,mid
+932,"['Approach', 'Touch', 'None']",Adult,Male,15040,4.037234042553191,7.639260520554608,mid
+933,"['Approach', 'None']",Child,Male,11200,3.1142857142857143,5.317858011606491,mid
+934,['Pass'],Child,Male,10320,1.0,0.0,low
+935,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,125920,4.025412960609911,7.609528098444777,mid
+936,['Pass'],Child,Male,13280,1.0,0.0,low
+937,['Pass'],Child,Male,8000,1.0,0.0,low
+938,"['Approach', 'None']",Child,Male,50560,3.8892405063291138,7.26702671745148,mid
+939,"['Approach', 'None']",Child,Male,69520,3.902186421173763,7.299588322777112,mid
+940,['Pass'],Adult,Female,14000,1.0,0.0,low
+941,"['Approach', 'None']",Adult,Female,23840,3.523489932885906,6.347089736326993,mid
+942,"['Approach', 'None']",Adult,Female,8080,3.366336633663366,5.951817268810316,mid
+943,"['Approach', 'None']",Adult,Female,24400,3.8622950819672135,7.199253502199219,mid
+944,"['Approach', 'None']",Adult,Female,69920,3.940503432494279,7.395963388954231,mid
+945,['Pass'],Adult,Female,11200,1.0,0.0,low
+946,['Pass'],Adult,Female,15360,1.0,0.0,low
+947,"['Approach', 'None']",Adult,Female,126160,3.953709575142676,7.429179520062094,mid
+948,['Pass'],Adult,Male,8480,1.0,0.0,low
+949,"['Approach', 'None']",Adult,Male,33160,3.6936067551266585,6.774968097302274,mid
+950,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,90200,4.035033259423503,7.633725103974465,mid
+951,['Pass'],Child,Male,5600,1.0,0.0,low
+952,['Pass'],Child,Male,9040,1.0,0.0,low
+953,"['Approach', 'None', 'Gesture', 'None']",Child,Male,47600,4.021848739495798,7.60056335840101,mid
+954,"['Approach', 'Touch', 'None']",Child,Male,79440,4.004028197381672,7.5557410753895615,mid
+955,['Pass'],Adult,Female,18960,1.0,0.0,low
+956,['Pass'],Child,Male,6320,1.0,0.0,low
+957,['Pass'],Child,Male,15200,1.0,0.0,low
+958,"['Approach', 'None']",Adult,Female,12240,3.640522875816993,6.64145135878076,mid
+959,['Pass'],Adult,Female,10560,1.0,0.0,low
+960,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,65760,3.974452554744525,7.481352326941958,mid
+961,"['Approach', 'None']",Adult,Female,36240,3.8874172185430464,7.262440778334978,mid
+962,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']",Adult,Female,61200,4.143790849673203,7.907272533597887,mid
+963,"['Approach', 'None']",Adult,Male,8800,3.5636363636363635,6.448066163950377,mid
+964,['Approach'],Adult,Male,12880,3.0,5.03040622719533,mid
+965,['Follow'],Adult,Male,9440,2.0,2.515203113597665,low
+966,"['Approach', 'None']",Adult,Male,166320,3.9153439153439153,7.332682093081022,mid
+967,['Pass'],Adult,Male,14000,1.0,0.0,low
+968,"['Approach', 'None']",Child,Male,17520,3.616438356164384,6.580873899961014,mid
+969,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,60400,3.9152317880794714,7.332400070236371,mid
+970,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,96080,4.051623646960866,7.675453298364232,mid
+971,"['Approach', 'Gesture']",Child,Male,6000,4.1466666666666665,7.914505797453985,mid
+972,"['Pass', 'None']",Adult,Male,24480,2.019607843137255,2.564520821707423,low
+973,['Follow'],Child,Male,4560,2.0,2.515203113597665,low
+974,"['Avoid', 'None']",Child,Male,9760,3.0819672131147544,5.236570416834483,mid
+975,"['Approach', 'None']",Child,Male,13760,3.755813953488372,6.931431836309844,mid
+976,['Avoid'],Child,Male,4720,2.0,2.515203113597665,low
+977,['Follow'],Child,Male,7200,2.0,2.515203113597665,low
+978,"['Approach', 'None']",Child,Male,11600,3.1448275862068966,5.39467702295775,mid
+979,['Pass'],Child,Male,14640,1.0,0.0,low
+980,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,116400,4.023367697594502,7.604383846540293,mid
+981,['Pass'],Child,Male,11120,1.0,0.0,low
+982,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,88560,4.065943992773262,7.711471876739364,mid
+983,"['Avoid', 'None']",Adult,Female,8480,3.056603773584905,5.1727762147574605,mid
+984,"['Approach', 'None']",Adult,Female,9760,3.680327868852459,6.741569001200299,mid
+985,"['Avoid', 'None']",Adult,Female,15120,3.5026455026455023,6.29466176048516,mid
+986,"['Approach', 'None', 'None', 'None']",Adult,Female,64960,3.948275862068965,7.415512628020701,mid
+987,"['Approach', 'None']",Adult,Female,22480,3.7864768683274015,7.008555295184953,mid
+988,['Approach'],Adult,Female,1440,3.0,5.03040622719533,mid
+989,['Follow'],Adult,Female,4160,2.0,2.515203113597665,low
+990,"['Approach', 'None']",Adult,Female,16800,3.3952380952380947,6.024510314950595,mid
+991,"['Approach', 'None']",Adult,Female,18720,3.5811965811965814,6.492233677833289,mid
+992,['Pass'],Adult,Female,7920,1.0,0.0,low
+993,"['Approach', 'None']",Adult,Female,51120,3.868544600938967,7.21497231177546,mid
+994,"['Approach', 'None']",Adult,Female,14400,3.677777777777778,6.735155004189303,mid
+995,"['Approach', 'Touch', 'None', 'None']",Adult,Female,61440,3.98828125,7.516134304305522,mid
+996,['Avoid'],Adult,Male,9600,2.0,2.515203113597665,low
+997,"['Approach', 'None']",Adult,Male,10720,3.253731343283582,5.668592091839512,mid
+998,['Pass'],Adult,Male,15920,1.0,0.0,low
+999,['Pass'],Adult,Male,10000,1.0,0.0,low
+1000,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'None', 'None']",Adult,Male,77280,4.00103519668737,7.548213070724254,mid
+1001,['Avoid'],Child,Male,4720,2.0,2.515203113597665,low
+1002,"['Approach', 'None']",Child,Male,21120,3.821969696969697,7.097826968296442,mid
+1003,['Approach'],Child,Male,2480,3.0,5.03040622719533,mid
+1004,['Follow'],Child,Male,8560,2.0,2.515203113597665,low
+1005,"['Approach', 'None']",Child,Male,19360,3.714876033057851,6.828464651378782,mid
+1006,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,39840,4.1305220883534135,7.873898903812769,mid
+1007,"['Approach', 'None', 'Gesture', 'None']",Child,Male,19600,3.8612244897959194,7.196560745436583,mid
+1008,['Pass'],Adult,Male,13760,1.0,0.0,low
+1009,['Pass'],Adult,Female,6240,1.0,0.0,low
+1010,['Pass'],Adult,Female,10480,1.0,0.0,low
+1011,['Pass'],Child,Male,10080,1.0,0.0,low
+1012,"['Approach', 'None']",Adult,Male,8880,3.45945945945946,6.186040090199663,mid
+1013,"['Approach', 'Gesture']",Adult,Male,5760,4.333333333333333,8.384010378658882,high
+1014,"['Approach', 'Gesture']",Adult,Male,7680,4.020833333333333,7.598009405659612,mid
+1015,['Follow'],Adult,Male,3440,2.0,2.515203113597665,low
+1016,['Avoid'],Adult,Male,4960,2.0,2.515203113597665,low
+1017,['Pass'],Adult,Male,12320,1.0,0.0,low
+1018,['Pass'],Adult,Female,8240,1.0,0.0,low
+1019,['Pass'],Adult,Female,14480,1.0,0.0,low
+1020,['Pass'],Adult,Female,14240,1.0,0.0,low
+1021,['Pass'],Adult,Female,19040,1.0,0.0,low
+1022,['Pass'],Adult,Male,12400,1.0,0.0,low
+1023,['Pass'],Adult,Male,9600,1.0,0.0,low
+1024,['Pass'],Adult,Male,6080,1.0,0.0,low
+1025,['Pass'],Adult,Male,4640,1.0,0.0,low
+1026,['Pass'],Adult,Male,7680,1.0,0.0,low
+1027,['Pass'],Adult,Male,16480,1.0,0.0,low
+1028,['Pass'],Adult,Male,8640,1.0,0.0,low
+1029,['Pass'],Adult,Male,8320,1.0,0.0,low
+1030,['Pass'],Adult,Male,16560,1.0,0.0,low
+1031,['Pass'],Adult,Female,12800,1.0,0.0,low
+1032,['Pass'],Child,Male,8720,1.0,0.0,low
+1033,['Pass'],Child,Male,12000,1.0,0.0,low
+1034,"['Approach', 'None']",Child,Male,15040,3.457446808510638,6.180977864266602,mid
+1035,['Pass'],Child,Male,11760,1.0,0.0,low
+1036,['Pass'],Child,Male,8800,1.0,0.0,low
+1037,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']",Child,Male,167760,4.383881735813066,8.511149877963295,high
+1038,"['Approach', 'None']",Child,Male,36480,3.8618421052631575,7.198114173782789,mid
+1039,"['Approach', 'None']",Child,Male,7120,3.3033707865168545,5.793445374017095,mid
+1040,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Child,Male,255200,4.398746081504703,8.548536726528491,high
+1041,"['Approach', 'Touch', 'None']",Child,Male,6480,4.1234567901234565,7.856128243706285,mid
+1042,"['Avoid', 'None']",Child,Male,23360,3.541095890410958,6.391372295511873,mid
+1043,"['Approach', 'Gesture', 'Gesture', 'None', 'None']",Child,Male,18000,3.888888888888889,7.266142328171031,mid
+1044,['Pass'],Adult,Female,14560,1.0,0.0,low
+1045,"['Approach', 'None']",Adult,Female,19280,3.4522821576763487,6.167987718407551,mid
+1046,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Female,116640,4.221536351165981,8.102818261020735,high
+1047,"['Approach', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None']",Adult,Female,85040,4.047036688617121,7.663916166456101,mid
+1048,"['Approach', 'None', 'Gesture', 'None']",Adult,Female,45520,3.978910369068541,7.492564635409563,mid
+1049,"['Approach', 'Touch', 'None']",Adult,Female,12240,3.908496732026144,7.31546003628079,mid
+1050,['Pass'],Adult,Female,15440,1.0,0.0,low
+1051,['Pass'],Adult,Female,4960,1.0,0.0,low
+1052,['Pass'],Adult,Female,7440,1.0,0.0,low
+1053,['Pass'],Adult,Male,18000,1.0,0.0,low
+1054,"['Approach', 'None']",Adult,Male,57360,3.8410041841004174,7.145702569593365,mid
+1055,"['Approach', 'None']",Adult,Male,19520,3.8114754098360657,7.071431704622943,mid
+1056,['Pass'],Adult,Male,9120,1.0,0.0,low
+1057,"['Approach', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'None']",Adult,Male,178960,4.082253017434063,7.752492386345952,mid
+1058,"['Approach', 'None', 'Gesture', 'None', 'None']",Adult,Male,148880,3.9838796346050502,7.505063347559285,mid
+1059,['Pass'],Child,Male,18720,1.0,0.0,low
+1060,"['Approach', 'None']",Child,Male,19760,3.2267206477732797,5.600654706391561,mid
+1061,"['Approach', 'None', 'Touch', 'None', 'Touch']",Child,Male,38240,4.7677824267782425,9.4767380911912,high
+1062,"['Approach', 'None']",Child,Male,17040,3.63849765258216,6.636357510994777,mid
+1063,"['Approach', 'None']",Child,Male,18640,3.836909871244636,7.135404541150457,mid
+1064,"['Approach', 'None', 'Gesture', 'None']",Child,Male,27840,3.9655172413793114,7.4588781989448,mid
+1065,"['Approach', 'None', 'Touch', 'Gesture', 'None', 'Touch', 'None']",Child,Male,49040,4.071778140293638,7.726145942747803,mid
+1066,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None']",Child,Male,228560,4.131956597829891,7.877506986514491,mid
+1067,"['Approach', 'None']",Child,Male,33040,3.929782082324455,7.368997015625119,mid
+1068,['Pass'],Child,Male,7040,1.0,0.0,low
+1069,['Pass'],Child,Male,4800,1.0,0.0,low
+1070,['Pass'],Child,Male,5120,1.0,0.0,low
+1071,"['Approach', 'Touch', 'None', 'Touch', 'None']",Child,Male,45920,4.156794425087108,7.939979166966845,mid
+1072,['Pass'],Child,Male,13280,1.0,0.0,low
+1073,['Pass'],Child,Male,9280,1.0,0.0,low
+1074,"['Approach', 'Gesture']",Child,Male,10560,3.287878787878788,5.754479850806779,mid
+1075,['Pass'],Child,Male,10720,1.0,0.0,low
+1076,['Pass'],Child,Male,17440,1.0,0.0,low
+1077,['Pass'],Child,Male,11840,1.0,0.0,low
+1078,"['Approach', 'None']",Child,Male,16320,3.583333333333333,6.497608043460634,mid
+1079,['Pass'],Child,Male,4720,1.0,0.0,low
+1080,['Pass'],Child,Male,9360,1.0,0.0,low
+1081,['None'],Child,Male,16720,4.0,7.545609340792994,mid
+1082,['Pass'],Adult,Male,13360,1.0,0.0,low
+1083,['Pass'],Child,Male,25440,1.0,0.0,low
+1084,['Pass'],Child,Male,10880,1.0,0.0,low
+1085,['Pass'],Child,Male,10640,1.0,0.0,low
+1086,['Pass'],Child,Male,8560,1.0,0.0,low
+1087,['Pass'],Adult,Female,9600,1.0,0.0,low
+1088,['Pass'],Adult,Female,8000,1.0,0.0,low
+1089,['Pass'],Adult,Female,22320,1.0,0.0,low
+1090,['Pass'],Child,Male,6880,1.0,0.0,low
+1091,['Pass'],Child,Male,13600,1.0,0.0,low
+1092,['Pass'],Adult,Female,18400,1.0,0.0,low
+1093,['Pass'],Child,Male,13520,1.0,0.0,low
+1094,['Pass'],Child,Male,8800,1.0,0.0,low
+1095,['Pass'],Child,Male,8240,1.0,0.0,low
+1096,['Pass'],Adult,Female,16800,1.0,0.0,low
+1097,"['Approach', 'None', 'Touch', 'None']",Adult,Female,98880,3.913430420711974,7.327869265424911,mid
+1098,"['Approach', 'Touch', 'None']",Adult,Female,22400,3.975,7.482729262953053,mid
+1099,"['Approach', 'None', 'None']",Adult,Female,20960,3.8664122137404577,7.209608924854374,mid
+1100,"['Approach', 'None']",Adult,Female,39600,3.8464646464646464,7.159436741533555,mid
+1101,"['Approach', 'None']",Adult,Female,12160,3.822368421052632,7.098829840351303,mid
+1102,['Pass'],Child,Female,17840,1.0,0.0,low
+1103,"['Approach', 'None']",Child,Female,145120,3.932745314222712,7.376450145721927,mid
+1104,"['Approach', 'None']",Child,Female,16960,3.3867924528301887,6.003267808869897,mid
+1105,"['Approach', 'None']",Child,Female,10480,3.49618320610687,6.2784077721102,mid
+1106,"['Approach', 'None']",Child,Female,25360,3.8201892744479498,7.093348844026223,mid
+1107,['Pass'],Child,Male,26560,1.0,0.0,low
+1108,"['Approach', 'None', 'Gesture', 'None']",Child,Male,18080,3.730088495575221,6.866727084467961,mid
+1109,"['Approach', 'None', 'Gesture', 'None', 'Gesture', 'None']",Child,Male,158080,4.017712550607287,7.590160003230199,mid
+1110,"['Approach', 'None']",Child,Male,15520,3.752577319587629,6.923291044645118,mid
+1111,"['Approach', 'None']",Child,Male,21280,3.774436090225564,6.97827029261307,mid
+1112,['Pass'],Child,Female,14880,1.0,0.0,low
+1113,['Pass'],Child,Male,13600,1.0,0.0,low
+1114,"['Approach', 'Touch']",Child,Male,17440,3.5504587155963305,6.414921702570191,mid
+1115,['Pass'],Child,Male,15920,1.0,0.0,low
+1116,['Pass'],Child,Female,17280,1.0,0.0,low
+1117,['Pass'],Child,Female,14160,1.0,0.0,low
+1118,['Pass'],Adult,Male,18080,1.0,0.0,low
+1119,['Pass'],Child,Female,13840,1.0,0.0,low
+1120,['Pass'],Adult,Male,7280,1.0,0.0,low
