@@ -1,0 +1,486 @@
+,code,duration,predicted_engagement_levels
+0,"['Approach', 'None']","[2720, 2960]",high
+1,"['Approach', 'None']","[5520, 6320]",high
+2,"['Approach', 'None', 'Approach', 'None']","[9240, 15600, 5920, 6360]",high
+3,"['Approach', 'None']","[4160, 7760]",high
+4,"['Approach', 'None', 'Approach', 'None']","[8640, 16480, 6000, 6640]",high
+5,"['Approach', 'None']","[6880, 13520]",high
+6,"['Approach', 'None', 'Approach', 'None']","[5040, 7440, 9280, 19120]",high
+7,"['Approach', 'None']","[3520, 14160]",high
+8,"['Approach', 'None']","[6000, 960]",high
+9,"['Approach', 'None']","[8720, 17520]",high
+10,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Gesture']","[12160, 5520, 3120, 3280, 3840, 4960]",low
+11,"['Approach', 'None', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None']","[8160, 34160, 15280, 2560, 15200, 1280, 2960, 6080]",low
+12,"['Approach', 'None', 'Touch', 'None']","[40680, 18880, 4720, 39040]",high
+13,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[5920, 4720, 1280, 3600, 6720, 12000]",high
+14,"['Approach', 'None', 'Touch', 'None']","[36400, 5440, 3920, 3200]",high
+15,"['Approach', 'None']","[27120, 9600]",high
+16,"['Approach', 'None', 'Touch', 'None', 'Gesture', 'None', 'Follow', 'Avoid', 'Follow']","[9760, 14480, 13840, 7520, 9520, 8800, 15280, 15440, 8240]",low
+17,"['Approach', 'Gesture', 'None', 'Gesture', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None']","[8080, 1760, 2560, 2320, 3040, 16160, 5680, 4320, 19200, 10000, 7040, 8000]",low
+18,"['Approach', 'Gesture', 'None']","[8480, 5160, 77440]",low
+19,"['Approach', 'None']","[10160, 45040]",high
+20,"['Approach', 'None']","[5200, 7600]",high
+21,"['Approach', 'None']","[7680, 6480]",high
+22,"['Approach', 'Gesture']","[5360, 3360]",low
+23,"['Approach', 'Gesture']","[3520, 3120]",low
+24,"['Approach', 'None']","[17520, 10720]",high
+25,"['Approach', 'Touch', 'Gesture']","[17840, 5120, 1200]",low
+26,"['Approach', 'Gesture']","[3800, 2480]",low
+27,"['Approach', 'None']","[9280, 16000]",high
+28,"['Approach', 'None', 'Gesture', 'None']","[7680, 800, 3920, 3840]",high
+29,"['Approach', 'None', 'Gesture']","[9120, 6080, 2880]",high
+30,"['Approach', 'Gesture', 'None', 'Gesture']","[4400, 2000, 6160, 4240]",low
+31,"['Approach', 'Gesture', 'None']","[10560, 13080, 5360]",low
+32,"['Approach', 'Gesture']","[5760, 4960]",low
+33,"['Approach', 'None']","[3200, 1920]",high
+34,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Follow']","[10000, 1600, 2320, 11120, 2560, 29520, 12240]",low
+35,"['Approach', 'None', 'Gesture']","[9040, 5280, 4000]",high
+36,"['Approach', 'None', 'Follow']","[7280, 47840, 11680]",high
+37,"['Approach', 'None']","[4000, 4240]",high
+38,"['Approach', 'None', 'Touch']","[9760, 3040, 10280]",high
+39,"['Approach', 'None', 'Follow']","[5520, 19920, 11280]",high
+40,"['Approach', 'None']","[11280, 17120]",high
+41,"['Approach', 'None']","[7200, 24240]",high
+42,"['Approach', 'None', 'Follow']","[8880, 65440, 10000]",high
+43,"['Approach', 'None']","[8560, 5520]",high
+44,"['Approach', 'None']","[11120, 1600]",high
+45,"['Approach', 'None', 'Gesture', 'None']","[7760, 8400, 4400, 6160]",high
+46,"['Approach', 'Avoid', 'Follow', 'Avoid', 'Approach', 'None', 'Touch', 'None']","[4080, 6240, 10480, 4560, 12800, 5200, 7120, 2080]",low
+47,"['Follow', 'None', 'Approach', 'None', 'Touch', 'None']","[5680, 8480, 6000, 1440, 6320, 14960]",low
+48,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None']","[7760, 5200, 3440, 1920, 3040, 35960, 3840, 40000, 4640, 45920, 6560, 3360, 13360, 5760, 3200, 6080, 1800, 25920]",low
+49,"['Approach', 'Avoid', 'None']","[12240, 3680, 5120]",low
+50,"['Follow', 'Approach', 'None', 'Touch', 'None']","[8640, 7600, 1520, 11120, 10480]",low
+51,"['Approach', 'None']","[6880, 20640]",high
+52,"['Approach', 'None']","[3520, 3040]",high
+53,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Gesture', 'None', 'Gesture', 'None']","[2320, 11200, 5440, 2720, 6000, 2400, 3680, 6120, 600, 2480, 47400]",low
+54,"['Approach', 'None', 'Approach', 'Touch']","[3040, 5680, 4160, 2880]",high
+55,"['Approach', 'Touch']","[6320, 2960]",low
+56,"['Approach', 'None', 'Touch']","[3200, 2880, 4000]",high
+57,"['Approach', 'Touch']","[5680, 2200]",low
+58,"['Approach', 'None', 'Approach', 'None']","[7920, 8160, 4240, 6320]",high
+59,"['Approach', 'None', 'Touch', 'Approach', 'None', 'Touch', 'None', 'Approach']","[5040, 2560, 3440, 3680, 1760, 3440, 11040, 2720]",low
+60,"['Approach', 'None', 'Approach', 'Touch']","[3200, 3520, 3120, 4160]",high
+61,"['Approach', 'None']","[18800, 1600]",high
+62,"['Approach', 'None']","[9040, 5040]",high
+63,"['Approach', 'Touch', 'None']","[6540, 2880, 33120]",low
+64,"['Approach', 'None', 'Touch', 'None']","[8080, 9600, 8160, 18240]",high
+65,"['Approach', 'None', 'Approach', 'Gesture', 'None']","[8000, 131440, 3040, 3040, 26480]",high
+66,"['Approach', 'None']","[2960, 30400]",high
+67,"['Approach', 'None']","[11520, 7840]",high
+68,"['Approach', 'Touch']","[5120, 9520]",low
+69,"['Approach', 'None']","[3280, 79680]",high
+70,"['Approach', 'None', 'Gesture', 'Touch', 'None', 'Approach', 'None']","[8400, 24800, 2240, 5120, 29120, 3200, 6880]",high
+71,"['Approach', 'Touch', 'Gesture', 'None', 'Follow']","[7840, 17760, 6000, 6960, 17440]",low
+72,"['Approach', 'None']","[7360, 7440]",high
+73,"['Approach', 'Touch', 'None', 'Touch', 'None']","[11520, 12480, 4880, 2800, 16320]",low
+74,"['Approach', 'Touch', 'None']","[7520, 14400, 30960]",low
+75,"['Approach', 'None']","[7440, 3360]",high
+76,"['Approach', 'Touch']","[7440, 9200]",low
+77,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach']","[10560, 10960, 3320, 3840, 17280, 3680, 27360, 38840, 7840, 3520]",high
+78,"['Approach', 'Touch', 'Avoid']","[6560, 8080, 7360]",low
+79,"['Approach', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']","[7840, 6400, 24480, 8880, 6800, 13520, 1600, 10400]",low
+80,"['Approach', 'Gesture', 'None']","[2880, 2880, 9360]",low
+81,"['Approach', 'None', 'Gesture', 'None', 'None', 'Approach', 'None', 'Touch', 'None', 'Approach', 'None']","[16480, 26240, 2320, 7760, 13440, 6000, 2560, 9840, 4160, 2800, 6960]",high
+82,"['Approach', 'None', 'Avoid']","[11360, 6720, 8000]",low
+83,"['Approach', 'None']","[9520, 38080]",high
+84,"['Approach', 'None', 'Gesture', 'None', 'Gesture']","[3600, 2640, 7440, 3040, 3240]",low
+85,"['Approach', 'None', 'Gesture', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Gesture', 'None', 'Gesture', 'None']","[10640, 10800, 7840, 10000, 5120, 11080, 4000, 15280, 4800, 29600, 2800, 5200, 7840, 6320, 12240]",low
+86,"['Approach', 'None', 'Avoid']","[10800, 8080, 7200]",low
+87,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None', 'Gesture']","[5680, 2880, 7280, 53920, 4400, 30480, 2400, 2960, 7760]",low
+88,"['Approach', 'None']","[8000, 8320]",high
+89,"['Approach', 'Gesture', 'None']","[7360, 7200, 11200]",low
+90,"['Approach', 'Gesture', 'None', 'Gesture', 'None']","[10240, 7520, 3040, 3520, 16080]",low
+91,"['Approach', 'Touch', 'Gesture', 'Touch', 'Gesture']","[5280, 6120, 4720, 32080, 7360]",low
+92,"['Approach', 'Touch']","[4560, 36800]",low
+93,"['Approach', 'Touch']","[11040, 44880]",low
+94,"['Approach', 'Touch', 'Approach', 'None']","[6960, 26160, 6160, 9680]",low
+95,"['Approach', 'Gesture']","[6000, 5320]",low
+96,"['Approach', 'None']","[23440, 45040]",high
+97,"['Approach', 'Touch']","[19760, 13120]",low
+98,"['Approach', 'None', 'Gesture']","[3360, 71040, 12680]",high
+99,"['Approach', 'None']","[10000, 22760]",high
+100,"['Approach', 'None']","[9040, 2960]",high
+101,"['Approach', 'None']","[15920, 8560]",high
+102,"['Approach', 'None']","[8960, 37040]",high
+103,"['Approach', 'Gesture']","[18160, 45360]",low
+104,"['Approach', 'Touch']","[6480, 49040]",low
+105,"['Approach', 'None']","[4640, 11280]",high
+106,"['Approach', 'Touch', 'Approach', 'Touch']","[4080, 52560, 2880, 86720]",low
+107,"['Approach', 'None']","[13120, 8320]",high
+108,"['Approach', 'Touch', 'Follow', 'Approach', 'Touch', 'Approach', 'None']","[6160, 2640, 34720, 4000, 63920, 5920, 38960]",low
+109,"['Approach', 'None']","[6400, 5120]",high
+110,"['Approach', 'Touch']","[8000, 32000]",low
+111,"['Approach', 'None']","[9760, 11840]",high
+112,"['Approach', 'Follow']","[6240, 38400]",low
+113,"['Approach', 'Touch']","[2720, 94640]",low
+114,"['Approach', 'None', 'Approach', 'None']","[4720, 14640, 4320, 22400]",high
+115,"['Approach', 'None']","[8560, 12880]",high
+116,"['Approach', 'Touch']","[3360, 2880]",low
+117,"['Approach', 'Touch']","[4960, 4240]",low
+118,"['Approach', 'Touch', 'Approach', 'Touch', 'Approach', 'Avoid', 'Follow', 'Avoid', 'Follow', 'Follow', 'Approach', 'None']","[3960, 33960, 2320, 56560, 4360, 5600, 11840, 8560, 5280, 6080, 11520, 10320]",low
+119,"['Approach', 'None']","[5600, 3440]",high
+120,"['Approach', 'None']","[7120, 8960]",high
+121,"['Approach', 'Touch', 'Approach', 'Touch']","[4240, 45120, 2080, 12560]",low
+122,"['Approach', 'Avoid', 'Follow']","[3920, 3520, 24480]",low
+123,"['Approach', 'Touch', 'Approach', 'None']","[11680, 81920, 2640, 23760]",low
+124,"['Approach', 'None']","[4800, 33280]",high
+125,"['Approach', 'Touch']","[2000, 63680]",low
+126,"['Approach', 'None']","[7680, 83840]",high
+127,"['Approach', 'Touch']","[8400, 56800]",low
+128,"['Approach', 'None']","[7440, 6000]",high
+129,"['Approach', 'Touch']","[4160, 4800]",low
+130,"['Approach', 'Gesture', 'Avoid']","[2080, 4160, 14000]",low
+131,"['Approach', 'Touch', 'Approach', 'None', 'Approach', 'None']","[5840, 35600, 10080, 16720, 6400, 83680]",low
+132,"['Approach', 'None', 'Approach', 'Approach', 'None']","[4480, 6480, 2800, 2240, 13200]",low
+133,"['Approach', 'None']","[4720, 6080]",high
+134,"['Approach', 'None']","[6880, 9040]",high
+135,"['Approach', 'None']","[5200, 31760]",high
+136,"['Approach', 'None']","[10240, 10720]",high
+137,"['Approach', 'None']","[6320, 41280]",high
+138,"['Approach', 'None']","[12720, 37600]",high
+139,"['Approach', 'None']","[17200, 59760]",high
+140,"['Approach', 'None']","[8960, 3040]",high
+141,"['Approach', 'None']","[7360, 2880]",high
+142,"['Approach', 'Avoid']","[2160, 17200]",low
+143,"['Approach', 'None']","[9360, 149920]",high
+144,"['Approach', 'Touch', 'Approach', 'None', 'Approach', 'None']","[6240, 30080, 2800, 10880, 4320, 13040]",low
+145,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None', 'Approach', 'None']","[34160, 2960, 4800, 20560, 3600, 3440, 8800, 10880]",low
+146,"['Approach', 'Follow', 'None']","[5680, 13600, 17680]",low
+147,"['Approach', 'None', 'Touch']","[3920, 73200, 29920]",high
+148,"['Approach', 'None', 'Approach', 'Touch']","[7280, 20080, 4320, 32560]",high
+149,"['Approach', 'Touch', 'Gesture', 'Touch']","[7120, 27680, 16000, 33840]",low
+150,"['Approach', 'None']","[5200, 38880]",high
+151,"['Approach', 'None']","[5280, 15840]",high
+152,"['Approach', 'Gesture']","[9600, 9920]",low
+153,"['Approach', 'Gesture', 'Touch']","[5360, 18080, 4160]",low
+154,"['Approach', 'Gesture']","[5200, 3200]",low
+155,"['Approach', 'None']","[15520, 640]",high
+156,"['Approach', 'Gesture']","[11200, 26560]",low
+157,"['Approach', 'Touch', 'Approach', 'Touch', 'Approach', 'Avoid']","[7760, 44080, 3840, 55840, 2880, 5200]",low
+158,"['Approach', 'None']","[6800, 2240]",high
+159,"['Approach', 'None']","[9280, 29280]",high
+160,"['Approach', 'None', 'Approach']","[9520, 5520, 2160]",high
+161,"['Approach', 'Touch']","[7920, 18080]",low
+162,"['Approach', 'Gesture', 'Touch', 'Gesture', 'Avoid']","[4720, 6960, 12880, 27360, 6640]",low
+163,"['Approach', 'None']","[8960, 32480]",high
+164,"['Approach', 'Touch', 'Approach', 'None']","[5280, 71840, 6800, 3440]",low
+165,"['Approach', 'None']","[7760, 3440]",high
+166,"['Approach', 'None']","[7840, 9440]",high
+167,"['Approach', 'None']","[6240, 24000]",high
+168,"['Approach', 'None', 'Avoid']","[6880, 3840, 7040]",low
+169,"['Approach', 'Touch']","[12400, 2080]",low
+170,"['Approach', 'Touch', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Touch', 'Gesture', 'None']","[6160, 6560, 134880, 5680, 10240, 3200, 2800, 8720, 2160, 2320, 3360, 4800, 0]",low
+171,"['Approach', 'Touch', 'None', 'Touch', 'None']","[11360, 6160, 1520, 3840, 9040]",low
+172,"['Approach', 'None', 'Touch']","[5120, 14800, 13120]",high
+173,"['Approach', 'Approach', 'Touch', 'None']","[2880, 5600, 44880, 9120]",low
+174,"['Approach', 'Gesture']","[15360, 4160]",low
+175,"['Approach', 'None']","[2800, 2720]",high
+176,"['Approach', 'Touch', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[8000, 3840, 2560, 2640, 9280, 9840, 5440, 4800, 3280, 2320, 8400, 3440, 22400]",low
+177,"['Approach', 'None']","[6720, 10880]",high
+178,"['Approach', 'None']","[3840, 3200]",high
+179,"['Avoid', 'Approach', 'Touch', 'None', 'Touch', 'Avoid', 'Follow', 'Approach', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[7920, 8720, 5440, 9920, 1360, 6080, 4560, 7640, 7360, 2320, 8560, 27440, 3840, 7440, 4080, 7200]",low
+180,"['Approach', 'Touch', 'Gesture', 'None', 'Touch']","[4480, 6240, 2160, 7000, 5280]",low
+181,"['Approach', 'None', 'Avoid']","[3840, 7600, 4400]",low
+182,"['Approach', 'None']","[10800, 43920]",high
+183,"['Approach', 'None']","[6400, 12000]",high
+184,"['Approach', 'None']","[4080, 49280]",high
+185,"['Approach', 'None']","[9760, 11040]",high
+186,"['Approach', 'Touch', 'None', 'Touch', 'None']","[2640, 12800, 1160, 6080, 11840]",low
+187,"['Approach', 'Touch', 'None', 'Touch', 'None']","[3200, 9600, 12560, 5280, 3680]",low
+188,"['Approach', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[12240, 5840, 48720, 2400, 2240, 26800, 3200, 8880, 5360, 25280, 2320, 640, 2800, 7760, 2480, 21920, 25600, 6080]",low
+189,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Touch', 'None']","[10480, 8080, 2160, 2000, 36000, 2880, 6320, 240, 3680, 2880, 4240, 3440, 5280, 2800, 0]",low
+190,"['Approach', 'None', 'Touch', 'None', 'Touch']","[14560, 3920, 11760, 1520, 82480, 2080, 6800, 8800, 9760, 4320]",high
+191,"['Approach', 'Gesture', 'Approach', 'Touch', 'Approach', 'Gesture', 'None', 'Approach', 'None', 'Touch', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Gesture']","[960, 2240, 12640, 2240, 2080, 25760, 24000, 4240, 2080, 2800, 50480, 5520, 40000, 13200, 4240, 15840, 3040, 1680, 5520, 2160, 3040, 10320, 7040, 8240, 5920, 5760]",low
+192,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Touch']","[10880, 1200, 2400, 880, 2320, 14880, 3840, 11440, 3120, 2160, 2760, 8280, 3360, 2160, 10800, 2400]",low
+193,"['Approach', 'None']","[5120, 7840]",high
+194,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Gesture', 'None']","[4080, 13360, 3600, 2080, 5680, 9760, 23600, 1680, 2240, 16560]",low
+195,"['Approach', 'None']","[12240, 4000]",high
+196,"['Approach', 'None', 'Touch', 'None', 'Approach', 'None', 'Touch']","[3680, 12480, 3760, 5680, 3360, 8400, 9120]",high
+197,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch']","[2320, 1040, 2080, 10080, 1840, 6720, 320, 3840]",high
+198,"['Approach', 'Touch']","[1440, 1200]",low
+199,"['Approach', 'Gesture']","[4240, 7200]",low
+200,"['Approach', 'None', 'Touch']","[3600, 4160, 13520]",high
+201,"['Approach', 'Gesture', 'Touch']","[12880, 1120, 2320]",low
+202,"['Approach', 'None']","[11680, 18640]",high
+203,"['Approach', 'None']","[14240, 14080]",high
+204,"['Approach', 'Touch']","[4320, 13520]",low
+205,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None']","[2240, 22160, 4560, 36400, 4400, 23680]",high
+206,"['Approach', 'Touch', 'None']","[3840, 1440, 20400]",low
+207,"['Approach', 'None', 'Approach', 'None']","[13520, 61280, 4960, 28560]",high
+208,"['Approach', 'None', 'Approach', 'None']","[12960, 26720, 3200, 16160]",high
+209,"['Approach', 'Touch', 'None', 'Approach', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None']","[2800, 12320, 8480, 2560, 3440, 2080, 15760, 2400, 3520, 3280, 15760, 3520, 2640, 3680, 2640, 4000, 2800, 1360, 15920]",low
+210,"['Approach', 'Touch']","[1200, 22160]",low
+211,"['Approach', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None']","[15520, 24800, 3200, 30800, 2640, 17440, 15840]",high
+212,"['Approach', 'Touch', 'None', 'Touch']","[7040, 6560, 11280, 10400]",low
+213,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']","[7200, 21600, 4480, 8480, 4160, 2400, 1360, 2080, 8000, 2880, 4240, 3040, 10800, 1760, 4000, 2800, 3600]",low
+214,"['Approach', 'None', 'Approach', 'Touch']","[2960, 12320, 1040, 3600]",high
+215,"['Approach', 'None', 'Touch']","[2560, 3440, 3360]",high
+216,"['Approach', 'None', 'Gesture', 'None']","[8400, 1200, 5840, 7680]",high
+217,"['Approach', 'Avoid', 'Follow']","[3040, 4640, 15440]",low
+218,"['Approach', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Touch', 'None']","[7440, 21040, 4240, 1920, 3760, 2080, 3280, 2640, 2960, 9280, 3760, 8560]",low
+219,"['Approach', 'None']","[3520, 9520]",high
+220,"['Approach', 'None']","[4960, 2400]",high
+221,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']","[12000, 2400, 13360, 1680, 7600, 3200, 2560]",low
+222,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None']","[3840, 2720, 1920, 2960, 20160, 5520, 14640]",high
+223,"['Approach', 'Touch']","[5520, 2560]",low
+224,"['Approach', 'None', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']","[3440, 33920, 12000, 5120, 14560, 5040, 2000, 3760, 7760]",low
+225,"['Approach', 'None', 'Follow']","[4400, 19040, 9040]",high
+226,"['Approach', 'Gesture', 'None']","[3840, 5280, 12160]",low
+227,"['Approach', 'Touch', 'None']","[2240, 2400, 5440]",low
+228,"['Approach', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Avoid', 'None']","[8440, 4000, 22720, 3760, 3920, 7280, 6480, 12080, 4320, 32480, 4320, 17360]",low
+229,"['Approach', 'None']","[7040, 36960]",high
+230,"['Approach', 'None', 'Touch', 'None']","[6880, 1520, 8560, 41280]",high
+231,"['Approach', 'None', 'Touch', 'None']","[8000, 6560, 2240, 15440]",high
+232,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[2160, 17520, 19120, 15120, 2320, 2160, 10400]",low
+233,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Gesture', 'None']","[4400, 1600, 2800, 880, 3920, 19680, 1280, 6480, 13520]",low
+234,"['Approach', 'None', 'Touch', 'None']","[7440, 7360, 2000, 14960]",high
+235,"['Approach', 'Touch', 'Approach', 'None']","[3200, 22960, 1840, 8400]",low
+236,"['Approach', 'Touch', 'None', 'Touch']","[4080, 4960, 1120, 7760]",low
+237,"['Approach', 'None']","[7200, 8480]",high
+238,"['Approach', 'None']","[5200, 1760]",high
+239,"['Approach', 'Gesture']","[3520, 2640]",low
+240,"['Approach', 'None', 'Gesture', 'None', 'Gesture']","[2960, 1440, 6240, 5200, 8440]",low
+241,"['Approach', 'None']","[5360, 7920]",high
+242,"['Approach', 'Gesture', 'None', 'Gesture', 'None']","[8080, 3120, 2080, 3920, 3120]",low
+243,"['Approach', 'None']","[5600, 11840]",high
+244,"['Approach', 'None']","[19040, 11840]",high
+245,"['Approach', 'None']","[15600, 10480]",high
+246,"['Approach', 'None']","[10080, 131200]",high
+247,"['Approach', 'None', 'Avoid']","[6320, 38160, 5760]",low
+248,"['Approach', 'None']","[10240, 19200]",high
+249,"['Approach', 'None']","[7840, 1760]",high
+250,"['Approach', 'Gesture', 'None']","[2320, 3200, 28320]",low
+251,"['Approach', 'None', 'Approach', 'None']","[2560, 6720, 10080, 22000]",high
+252,"['Approach', 'None']","[5680, 38240]",high
+253,"['Approach', 'None']","[4960, 8320]",high
+254,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None', 'Approach', 'None']","[5520, 15920, 2160, 12240, 4720, 27360, 2160, 12960]",low
+255,"['Approach', 'None', 'None', 'Touch']","[3360, 3000, 16000, 0]",low
+256,"['Approach', 'None', 'Touch', 'None']","[3120, 9200, 3600, 9840]",high
+257,"['Approach', 'None']","[4480, 18240]",high
+258,"['Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[5440, 155200, 5360, 3280, 3040, 1920, 6720, 5680]",high
+259,"['Approach', 'None']","[13360, 15360]",high
+260,"['Approach', 'None']","[14000, 17040]",high
+261,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None']","[13280, 27680, 6880, 95920, 12880, 13880]",high
+262,"['Approach', 'None']","[8720, 3040]",high
+263,"['Approach', 'None']","[5840, 6160]",high
+264,"['Approach', 'None']","[8240, 3040]",high
+265,"['Approach', 'None']","[5680, 9200]",high
+266,"['Approach', 'None', 'Approach', 'None']","[14800, 6000, 8640, 34400]",high
+267,"['Approach', 'Gesture', 'Approach', 'None']","[12960, 7680, 6720, 10640]",low
+268,"['Approach', 'None', 'Touch']","[4080, 1760, 28960]",high
+269,"['Approach', 'None', 'Follow']","[8480, 15040, 13920]",high
+270,"['Approach', 'None', 'Follow']","[7040, 10560, 9600]",high
+271,"['Approach', 'None', 'Avoid', 'Follow']","[8000, 7840, 4240, 9840]",low
+272,"['Approach', 'None', 'Avoid', 'Follow']","[5920, 6720, 5840, 12320]",low
+273,"['Approach', 'Touch', 'None', 'Avoid', 'Approach', 'Gesture', 'None']","[14880, 4160, 4800, 3680, 5600, 2720, 6560]",low
+274,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[5760, 1600, 1920, 4800, 3040, 2080]",high
+275,"['Approach', 'None']","[6400, 2240]",high
+276,"['Approach', 'None']","[6960, 2160]",high
+277,"['Approach', 'Gesture', 'None', 'Avoid', 'Approach', 'Gesture', 'Approach', 'Gesture', 'None', 'Gesture', 'None', 'Avoid', 'Avoid', 'Follow', 'Approach', 'Touch', 'None']","[10000, 4800, 560, 1760, 2320, 9840, 1680, 3920, 3920, 2400, 1200, 2160, 240, 2720, 1520, 4000, 10320]",low
+278,"['Approach', 'Touch', 'None']","[4480, 7520, 25280]",low
+279,"['Approach', 'None']","[4720, 46160]",high
+280,"['Approach', 'None']","[3760, 2480]",high
+281,"['Approach', 'Touch', 'None']","[6000, 6320, 10880]",low
+282,"['Approach', 'Gesture', 'None']","[15360, 3520, 17760]",low
+283,"['Approach', 'Gesture', 'None']","[16160, 2960, 19760]",low
+284,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None']","[17360, 2160, 2240, 1200, 1840, 13200]",high
+285,"['Approach', 'None']","[6160, 3040]",high
+286,"['Approach', 'None', 'Gesture', 'None', 'Touch', 'None']","[4160, 10000, 9200, 640, 1920, 6880]",high
+287,"['Approach', 'None']","[6800, 29200]",high
+288,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Gesture']","[5680, 3680, 6640, 9440, 4160, 2720]",low
+289,"['Approach', 'Touch', 'None']","[2880, 3760, 4640]",low
+290,"['Approach', 'None', 'Touch', 'None']","[8320, 9760, 6400, 35840]",high
+291,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[15360, 4960, 12480, 4000, 4000, 5120, 3680, 2560, 5120, 2640, 3200, 3440, 5200]",low
+292,"['Approach', 'None']","[6400, 70720]",high
+293,"['Approach', 'None']","[7360, 27200]",high
+294,"['Approach', 'None', 'Touch', 'None']","[10400, 28720, 14560, 91280]",high
+295,"['Approach', 'None']","[6320, 43680]",high
+296,"['Approach', 'None']","[8080, 6640]",high
+297,"['Approach', 'None']","[13040, 6240]",high
+298,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[16320, 13600, 6240, 13760, 9360, 3360, 1920, 17520]",high
+299,"['Approach', 'None']","[8000, 18160]",high
+300,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[4640, 4080, 2080, 4400, 2880, 6800]",high
+301,"['Approach', 'None', 'Approach', 'None']","[22160, 28160, 5600, 8960]",high
+302,"['Approach', 'None']","[17520, 64240]",high
+303,"['Approach', 'None']","[2320, 8800]",high
+304,"['Approach', 'None']","[8080, 16640]",high
+305,"['Approach', 'None']","[4240, 38160]",high
+306,"['Approach', 'None']","[5200, 5920]",high
+307,"['Approach', 'Touch']","[3520, 25760]",low
+308,"['Approach', 'None', 'Approach', 'None']","[17840, 2720, 3360, 34400]",high
+309,"['Approach', 'None']","[9920, 90880]",high
+310,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch']","[2160, 16960, 20800, 3200, 4000, 11280]",low
+311,"['Approach', 'None']","[3440, 30200]",high
+312,"['Approach', 'None', 'Approach', 'None']","[18800, 10320, 5680, 2080]",high
+313,"['Approach', 'None']","[6720, 40720]",high
+314,"['Approach', 'None']","[5280, 3680]",high
+315,"['Approach', 'None', 'Approach', 'Touch', 'None']","[28400, 13040, 3040, 9440, 32080]",high
+316,"['Approach', 'None']","[6640, 12480]",high
+317,"['Approach', 'None', 'Approach', 'None']","[14080, 57120, 5760, 21600]",high
+318,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None']","[11520, 4320, 6480, 18240, 2400, 40720]",high
+319,"['Approach', 'None']","[10160, 13360]",high
+320,"['Approach', 'None', 'Approach', 'None']","[18640, 74400, 2160, 3920]",high
+321,"['Approach', 'None']","[6640, 23600]",high
+322,"['Approach', 'None', 'Approach', 'None']","[15680, 72160, 4720, 9040]",high
+323,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[15680, 5680, 5520, 10080, 3680, 4720, 11760, 3760, 2560, 2800, 5840]",low
+324,"['Approach', 'None', 'Approach', 'None']","[5280, 5280, 2400, 62080]",high
+325,"['Approach', 'None']","[1680, 3920]",high
+326,"['Approach', 'None', 'Touch', 'None', 'Approach', 'None']","[15920, 27360, 15120, 32080, 2800, 56560]",high
+327,"['Approach', 'Approach', 'None']","[16640, 4480, 0]",low
+328,"['Approach', 'None', 'Touch', 'None', 'Approach', 'None']","[23520, 4960, 8160, 32960, 4480, 74080, 17600, 17120]",high
+329,"['Approach', 'None']","[9760, 21040]",high
+330,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None']","[8000, 24720, 31920, 2720, 26480, 5280, 5280, 28480]",low
+331,"['Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Approach', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None', 'Touch']","[8800, 25440, 3760, 4160, 2000, 12320, 3360, 6480, 3360, 1280, 2320, 39280, 1920, 10880]",low
+332,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[4000, 1440, 3360, 10720, 2720, 3040, 2320, 10080, 2160, 9920, 2880, 8560, 2480, 34480, 3120, 6800, 2560, 11920, 3600, 6080, 3200, 17680, 5120, 2800, 2160, 3360, 3840, 13120]",low
+333,"['Approach', 'Touch']","[4960, 17120]",low
+334,"['Approach', 'Touch']","[13360, 27520]",low
+335,"['Approach', 'None']","[17280, 16480]",high
+336,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[5360, 2560, 18800, 5440, 3200, 1760]",high
+337,"['Approach', 'None']","[6320, 29160]",high
+338,"['Approach', 'None']","[2240, 2160]",high
+339,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None']","[13040, 7520, 2160, 15360, 3440, 12880, 12440, 4160, 2320, 7760, 3200, 19520, 2160, 8800]",low
+340,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Touch', 'None']","[13360, 2160, 1360, 3360, 10800, 1680, 29520, 1920, 1600, 4160, 1680, 8560, 1280, 4640, 2080, 17520]",low
+341,"['Approach', 'None']","[5120, 5280]",high
+342,"['Approach', 'Gesture', 'None', 'Approach', 'Gesture', 'None']","[8080, 5680, 960, 1760, 14640, 7680]",low
+343,"['Approach', 'None']","[1920, 5440]",high
+344,"['Approach', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Approach', 'None', 'Gesture', 'Touch']","[33840, 2240, 1920, 23440, 1200, 1760, 1440, 11760, 2320, 21840, 1440, 800, 3520, 2240, 3200, 480, 1520, 1520]",low
+345,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None']","[6800, 7120, 21920, 2400, 6720, 4720, 18360, 1680, 18280, 3120, 29040, 2400, 28720, 4640, 4240]",low
+346,"['Approach', 'Touch', 'Gesture', 'Touch', 'None', 'Touch', 'None']","[6080, 2080, 7760, 3040, 8720, 1760, 33200]",low
+347,"['Approach', 'None']","[12400, 42800]",high
+348,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[13520, 12720, 3120, 13280, 1840, 2000, 4160, 17040]",high
+349,"['Approach', 'None']","[20160, 3200]",high
+350,"['Approach', 'None']","[8080, 72640]",high
+351,"['Approach', 'None', 'Gesture', 'None']","[7360, 3280, 1760, 720]",high
+352,"['Approach', 'Touch', 'None']","[12000, 3600, 8400]",low
+353,"['Approach', 'None']","[3600, 2080]",high
+354,"['Approach', 'None']","[3600, 49360]",high
+355,"['Approach', 'None', 'Touch']","[3360, 400, 3440]",high
+356,"['Approach', 'None']","[4560, 2880]",high
+357,"['Approach', 'None', 'Gesture', 'None', 'Gesture', 'None']","[6800, 2560, 2080, 5840, 2720, 12480]",low
+358,"['Approach', 'None', 'Approach', 'None']","[10720, 960, 2080, 15120]",high
+359,"['Approach', 'None', 'Approach', 'None']","[11840, 1120, 3680, 14640]",high
+360,"['Approach', 'Gesture']","[2320, 4080]",low
+361,"['Approach', 'Touch', 'None']","[3040, 2080, 4880]",low
+362,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch']","[8000, 2960, 17440, 20640, 3920, 16320]",low
+363,"['Approach', 'Gesture']","[5040, 1680]",low
+364,"['Approach', 'Gesture']","[5040, 3280]",low
+365,"['Approach', 'Gesture']","[3760, 6060]",low
+366,"['Approach', 'None', 'Touch', 'None']","[18000, 21920, 3680, 24960]",high
+367,"['Approach', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Approach', 'None', 'Approach', 'None', 'Avoid', 'None', 'Avoid', 'Approach', 'None', 'Avoid']","[14720, 53920, 3840, 4640, 800, 2800, 23760, 2880, 11600, 5840, 23400, 3360, 5680, 4000, 560, 2800, 7600, 1440, 14240, 560, 34960, 3280, 640, 2320, 3200, 1680, 3920]",high
+368,"['Approach', 'None', 'Avoid', 'Approach', 'None', 'Avoid']","[6160, 800, 1280, 2080, 1120, 2880]",low
+369,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None']","[4080, 6720, 20240, 2320, 11920, 2640, 14880, 2640, 1760, 15280]",low
+370,"['Approach', 'None', 'Approach', 'Touch', 'None']","[6400, 2720, 1600, 1360, 10400]",high
+371,"['Approach', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None']","[10560, 6560, 2560, 1840, 2080, 2000, 8000, 3040, 8160]",high
+372,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Avoid', 'Approach', 'None', 'Touch', 'Avoid', 'None', 'Follow', 'Touch', 'None', 'Avoid', 'None', 'Avoid', 'Follow', 'Gesture', 'Touch', 'Avoid', 'Follow', 'None', 'Avoid', 'None']","[9520, 3440, 9200, 22240, 16560, 6320, 6960, 1120, 2000, 4560, 6320, 2560, 8480, 2000, 4480, 1200, 3200, 4320, 2240, 5600, 3920, 4800, 7040, 4800, 4960, 8000, 11360]",low
+373,"['Approach', 'Touch', 'None', 'Gesture', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']","[5680, 4640, 2240, 2800, 2800, 1440, 2400, 29200, 16480, 8560, 13520]",low
+374,"['Approach', 'None']","[15280, 19280]",high
+375,"['Approach', 'Touch', 'None']","[13120, 2680, 13920]",low
+376,"['Approach', 'None']","[6400, 1520]",high
+377,"['Approach', 'None']","[3680, 1840]",high
+378,"['Approach', 'Gesture']","[2000, 1520]",low
+379,"['Approach', 'None']","[1360, 480]",high
+380,"['Approach', 'None']","[2080, 880]",high
+381,"['Approach', 'Gesture']","[1600, 1680]",low
+382,"['Approach', 'Gesture']","[1920, 4560]",low
+383,"['Approach', 'None']","[3200, 4480]",high
+384,"['Approach', 'None']","[3680, 6560]",high
+385,"['Approach', 'None', 'Touch']","[13840, 3600, 7440]",high
+386,"['Approach', 'None']","[4560, 4640]",high
+387,"['Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Gesture']","[4000, 3760, 2720, 10720, 8480, 7120, 2480]",low
+388,"['Approach', 'None']","[8560, 3200]",high
+389,"['Approach', 'None']","[2960, 1680]",high
+390,"['Approach', 'None']","[11920, 5120]",high
+391,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'Touch', 'None']","[8000, 2000, 1520, 1840, 5120, 3440, 880, 2800, 2880, 2560, 9520, 1840, 800, 2240, 5200, 0]",low
+392,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[12960, 8240, 3120, 17120, 2240, 5200, 8080]",low
+393,"['Approach', 'None']","[2720, 26800]",high
+394,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[7600, 1600, 2240, 5280, 5680, 3840, 2240, 34720]",high
+395,"['Approach', 'None', 'Approach', 'None']","[5920, 7440, 2320, 5680]",high
+396,"['Approach', 'Touch', 'None', 'Approach', 'Touch', 'None']","[7920, 4880, 16800, 1680, 1920, 15040]",low
+397,"['Approach', 'None', 'Approach', 'None']","[6560, 15680, 2240, 28080]",high
+398,"['Approach', 'None', 'Touch', 'None']","[9600, 20240, 2240, 15120]",high
+399,"['Approach', 'Gesture']","[3520, 3920]",low
+400,"['Approach', 'None']","[6480, 26560]",high
+401,"['Approach', 'None']","[10400, 7360]",high
+402,"['Approach', 'None']","[12640, 3040]",high
+403,"['Approach', 'Follow']","[4880, 3200]",low
+404,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'Touch', 'Gesture', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'None']","[4240, 3440, 1120, 2320, 5440, 2560, 20640, 17840, 6240, 12960, 9600, 10080, 10880, 15520, 6480, 640, 5920, 5200, 10000]",low
+405,"['Approach', 'None']","[6800, 13600]",high
+406,"['Approach', 'None']","[6400, 11280]",high
+407,"['Approach', 'None']","[7440, 10800]",high
+408,"['Approach', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Approach', 'Gesture', 'None', 'Approach', 'Gesture']","[4080, 2800, 2880, 4160, 2080, 880, 3360, 2240, 1120, 2560, 3360, 1840, 2480]",low
+409,"['Approach', 'None', 'Approach', 'None']","[4720, 1040, 2960, 12240]",high
+410,"['Approach', 'Gesture']","[3280, 2320]",low
+411,"['Approach', 'None']","[4080, 14000]",high
+412,"['Approach', 'None', 'Approach', 'None']","[5200, 52000, 2720, 7920]",high
+413,"['Approach', 'None']","[5360, 16720]",high
+414,"['Approach', 'None']","[2400, 6400]",high
+415,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[15920, 12640, 4960, 10560, 7680, 15280, 4320, 11120, 2480, 1680, 9040, 3680, 3200, 3040, 10800]",low
+416,"['Approach', 'None']","[8000, 1600]",high
+417,"['Approach', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Gesture', 'None', 'Approach', 'Touch', 'None']","[11520, 3920, 80960, 2080, 1760, 7920, 2160, 21440, 1760, 1120, 18640]",low
+418,"['Approach', 'None']","[4560, 1840]",high
+419,"['Approach', 'Touch', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None', 'Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'Gesture', 'None', 'Touch', 'None', 'Approach', 'None']","[13280, 2960, 960, 3200, 1040, 1680, 4240, 1520, 4800, 7360, 2080, 2320, 2400, 12240, 2960, 2720, 3120, 3360, 1680, 5440, 6400, 20880, 3200, 3040, 6320, 3680, 400, 2240, 7840]",low
+420,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None']","[6320, 14400, 19680, 7840, 1520, 6240, 1520, 1680, 8880, 3520, 5840]",low
+421,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[2640, 8160, 720, 2240, 2000, 3600, 12720]",low
+422,"['Approach', 'None']","[5680, 71040]",high
+423,"['Approach', 'None']","[6240, 8640]",high
+424,"['Approach', 'None', 'Touch', 'None']","[12880, 26960, 2240, 23120]",high
+425,"['Approach', 'None', 'Touch', 'None', 'Approach', 'None']","[3200, 5120, 2000, 14880, 5600, 18160]",high
+426,"['Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture']","[9040, 1920, 2240, 3160, 1840, 20320, 2800, 29040, 3760]",low
+427,"['Approach', 'None']","[4320, 32080]",high
+428,"['Approach', 'None', 'Approach', 'None', 'Approach', 'Gesture', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None']","[3200, 3680, 3840, 12480, 2240, 1920, 21120, 2320, 7200, 1840, 2400, 10800]",low
+429,"['Approach', 'None']","[9920, 1280]",high
+430,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[9600, 31600, 3680, 42240, 2560, 8400, 6560, 21280]",high
+431,"['Approach', 'None', 'Approach', 'None']","[5600, 44960, 6800, 62720]",high
+432,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None', 'Approach', 'None']","[11360, 12480, 5120, 2960, 3360, 21040, 4160, 65760]",low
+433,"['Approach', 'None']","[5840, 120320]",high
+434,"['Approach', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None']","[10160, 23000, 6760, 1920, 16800, 3840, 9280, 2400, 36800, 1760, 10640]",low
+435,"['Approach', 'None', 'Gesture', 'None', 'Approach', 'Touch', 'None']","[2880, 33920, 3920, 6880, 1840, 2160, 75440]",high
+436,"['Approach', 'None']","[4400, 7840]",high
+437,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[12640, 28960, 2880, 2000, 8080, 11200]",high
+438,"['Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None']","[4080, 32160, 2560, 7040, 5600, 7920, 2080, 17760, 3680, 14560]",low
+439,"['Approach', 'None', 'Approach', 'Follow', 'Approach', 'None']","[3840, 4960, 12880, 9440, 14080, 152240]",low
+440,"['Approach', 'None']","[6720, 10800]",high
+441,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[12080, 2240, 2800, 30720, 4160, 8400, 3440, 15200, 3760, 50160, 4640, 18880]",low
+442,"['Approach', 'Gesture']","[2560, 3440]",low
+443,"['Follow', 'Avoid', 'None', 'Approach', 'None', 'Avoid', 'Follow', 'Approach', 'None']","[8320, 4560, 4480, 5280, 3360, 10400, 4720, 7200, 9920, 1680]",low
+444,"['Approach', 'None', 'Touch', 'None', 'Touch']","[2880, 72320, 2720, 4080, 2880]",high
+445,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']","[3520, 1520, 2080, 2320, 9040, 3680, 49440, 1840]",low
+446,"['Avoid', 'None', 'Approach', 'None', 'Avoid', 'None']","[15120, 4000, 4480, 3120, 6640, 3760, 11360]",low
+447,"['Approach', 'None']","[3360, 21600]",high
+448,"['Approach', 'None', 'Approach', 'Follow']","[16240, 4800, 17680, 1440, 4160]",low
+449,"['Approach', 'None']","[10160, 6640]",high
+450,"['Approach', 'None']","[7840, 10880]",high
+451,"['Approach', 'None', 'Approach', 'None', 'Approach', 'Touch', 'None']","[6720, 44400, 4640, 9760, 2480, 1760, 48800]",high
+452,"['Approach', 'None']","[8000, 2720]",high
+453,"['Approach', 'None', 'Touch', 'None', 'Touch', 'None']","[6400, 9360, 2160, 6720, 4320, 28400]",high
+454,"['Avoid', 'Approach', 'None', 'Approach', 'Follow']","[11040, 4720, 3760, 17360, 2480, 8560]",low
+455,"['Approach', 'None']","[5520, 13840]",high
+456,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Approach', 'None', 'Gesture', 'None']","[3200, 5680, 560, 2720, 27680, 4640, 3600, 1920, 9440]",low
+457,"['Approach', 'None', 'Approach', 'Gesture']","[4800, 4080, 1920, 3840]",high
+458,"['Approach', 'Gesture']","[3760, 3920]",low
+459,"['Approach', 'None']","[8160, 6880]",high
+460,"['Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch']","[4880, 2240, 1040, 24000, 480, 2160, 1760, 3840, 2240, 6640, 17440, 19600, 30720, 3040, 39920, 7760]",low
+461,"['Approach', 'None']","[5040, 31440]",high
+462,"['Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None']","[4960, 2160, 2160, 22720, 3120, 720, 34080, 13680, 3840, 34160, 1760, 480, 9680, 38000, 11920, 8960, 6480, 1840, 23280, 1680, 7280, 15360, 2480, 11520, 1680, 2480, 2320]",low
+463,"['Avoid', 'None', 'Approach', 'Gesture', 'Gesture', 'None']","[5360, 18000, 8320, 2880, 3440, 0]",low
+464,"['Approach', 'None', 'Approach', 'None', 'Gesture', 'None', 'Touch']","[10560, 8720, 3200, 5200, 4720, 12960, 17600]",low
+465,"['Approach', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None']","[4320, 3760, 3920, 8640, 2080, 7040, 2320, 52960]",low
+466,"['Approach', 'None', 'Gesture', 'None', 'Approach', 'Touch', 'None']","[5120, 17680, 4160, 18560, 4480, 3360, 4400]",high
+467,"['Approach', 'None']","[9120, 48240]",high
+468,"['Approach', 'None']","[3680, 15840]",high
+469,"['Approach', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Touch', 'None']","[5760, 26720, 5200, 16640, 3680, 160, 2960, 640, 3200, 12560, 3120, 12240, 2320, 83760]",low
+470,"['Approach', 'None', 'Gesture', 'None']","[4640, 102400, 2240, 29920]",high
+471,"['Approach', 'None', 'Approach', 'None', 'Touch', 'None', 'Touch']","[15280, 4480, 1920, 3520, 24080, 1520, 7200]",high
+472,"['Approach', 'None']","[6160, 10880]",high
+473,"['Approach', 'None']","[3040, 15600]",high
+474,"['Approach', 'None', 'Gesture', 'None', 'Approach', 'None', 'Touch', 'Gesture', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None', 'Touch', 'None', 'Gesture', 'None']","[3600, 18640, 2640, 2960, 4560, 13680, 2960, 1680, 8240, 3440, 14480, 1680, 3520, 14800, 5200, 14320, 2640, 24320, 3120, 10320, 4560, 46800, 4160, 1040, 2480, 7200, 3040, 71440, 3120, 4800]",low
+475,"['Approach', 'None']","[2320, 30720]",high
+476,"['Approach', 'Touch', 'None', 'Touch', 'None']","[6080, 10960, 9920, 2320, 16640]",low
+477,"['Approach', 'Gesture']","[9040, 1520]",low
+478,"['Approach', 'None']","[6800, 9520]",high
+479,"['Approach', 'None', 'Touch', 'None', 'Approach', 'Touch', 'None', 'Approach', 'None']","[12240, 47120, 3680, 35840, 2480, 1920, 18000, 2800, 5440]",high
+480,"['Approach', 'None', 'Approach', 'None']","[12720, 6080, 33520, 2160, 10000]",high
+481,"['Approach', 'None']","[9760, 135360]",high
+482,"['Approach', 'None', 'Approach', 'None', 'Approach', 'None']","[10400, 6560, 5280, 5200, 4560, 20800]",high
+483,"['Approach', 'None', 'Gesture', 'None', 'Approach', 'None', 'Gesture', 'None', 'Gesture', 'None', 'Approach', 'None', 'Approach', 'None']","[7680, 5200, 2800, 2400, 5360, 45360, 1840, 36400, 6320, 62800, 3840, 11680, 4800, 16480]",low
+484,"['Approach', 'Touch']","[12640, 4800]",low

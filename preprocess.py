@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def indexing(orig_df):
+def index_with_approach(orig_df):
     # 'pid' column 초기값 설정
     pid = 0
     pid_list = []
@@ -24,8 +24,30 @@ def indexing(orig_df):
     return orig_df
 
 
-def reindex(orig_df):
-    orig_df = orig_df.reindex(columns=['uid', 'pid', 'date', 'filename', 'start', 'duration', 'A/C', 'behavior', 'code', 'M/F', 'appearance'])
+def index_with_start(df):
+    pids = []
+    current_pid = 0
+
+    for i in range(len(df)):
+        if i == 0:
+            pids.append(current_pid)
+            continue
+        
+        prev_row = df.iloc[i - 1]
+        current_row = df.iloc[i]
+
+        if prev_row['appearance'] == current_row['appearance'] and (current_row['start'] - (prev_row['start'] + prev_row['duration'])) < 2000:
+            pids.append(current_pid)
+        else:
+            current_pid += 1
+            pids.append(current_pid)
+
+    df['pid'] = pids
+    return df
+
+
+def reindex(orig_df, columns):
+    orig_df = orig_df.reindex(columns=columns)
     return orig_df
 
 
